@@ -72,5 +72,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T23:06:51+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 0,
+      "confirmed": 20,
+      "mismatch": 0,
+      "cannot_check": 0
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000066",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000024",
+        "period_label": "quarter ended 30 June 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "accession": "0001628280-26-066700",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "2109150",
+        "company": "INNIO N.V.",
+        "accession": "0001628280-26-067394",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "33185",
+        "company": "EQUIFAX INC",
+        "accession": "0000033185-26-000037",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 20 figures confirmed, 0 mismatches, 0 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-27T23:04:11+08:00",
+      "watch_brief": "briefs/2026-10-27-watch.md",
+      "brief_says": 473,
+      "saved_for_run": 473,
+      "match": true
+    },
+    "offline": false
   }
 ]
