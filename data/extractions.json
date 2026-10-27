@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 24% and Google Cloud revenues grew 82%, driven by AI demand.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose 30% and the operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Other income included a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and describes the results as outstanding, with growth across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-27T23:04:11+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026, Amazon expects net sales of $197.0 billion to $202.0 billion.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales grew 20% year over year.",
+        "quote": "Net sales increased 20% year-over-year"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income was $27.5 billion, up 43% year over year.",
+        "quote": "Operating income was $27.5 billion, up 43% year-over-year"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Amazon expects third-quarter operating income of $22.5 billion to $26.5 billion.",
+        "quote": "Operating income is expected to be between $22.5 billion and $26.5 billion, compared with $17.4 billion in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and advertising had another strong quarter; the outlook gives a range of growth."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-27T23:04:11+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth-quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Total costs and expenses rose 68%, including a litigation charge.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO expects full-year 2026 total expenses of $175-179 billion.",
+        "quote": "We now expect full year 2026 total expenses to be in the range of $175-179 billion."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says investments are paying off and the core business is strong; the CFO also notes a legal charge and legal scrutiny."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-27T23:04:11+08:00"
+  },
+  {
+    "cik": "2109150",
+    "company": "INNIO N.V.",
+    "accession": "0001628280-26-067394",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1167.9,
+        "unit": "USD millions",
+        "quote": "Net sales | 1,167.9 | 742.7"
+      },
+      "operating_income": {
+        "value": 193.6,
+        "unit": "USD millions",
+        "quote": "Operating income | 193.6 | 92.6"
+      },
+      "net_income": {
+        "value": 111.0,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to INNIO N.V. shareholders | $ | 111.0 | $ | 40.0"
+      },
+      "diluted_eps": {
+        "value": 0.15,
+        "unit": "USD per share",
+        "quote": "Diluted EPS | 0.15 | 0.05"
+      }
+    },
+    "guidance": {
+      "text": "INNIO raised its 2026 total revenue outlook to $3.9 to $4.0 billion.",
+      "quote": "Total Revenue guidance raised by $100 million to $3.9 - $4.0 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says INNIO had a record quarter, with revenue above $1 billion for the first time.",
+        "quote": "INNIO delivered a record quarter, exceeding $1 billion in revenue for the first time and achieving a 21% Adjusted EBITDA margin."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says equipment margins improved as deliveries increased.",
+        "quote": "Equipment margins improved again this quarter as deliveries increased, while Services continued to deliver strong profitability."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says full-year revenue and Adjusted EBITDA guidance are being raised.",
+        "quote": "Based on our performance and outlook, we are raising our full-year revenue and Adjusted EBITDA guidance"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe a record quarter, improved margins and raised full-year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2109150-0001628280-26-067394.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067394/ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067394/0001628280-26-067394-index.htm",
+    "saved_at": "2026-10-27T23:04:11+08:00"
+  },
+  {
+    "cik": "33185",
+    "company": "EQUIFAX INC",
+    "accession": "0000033185-26-000037",
+    "release_date": "2026-10-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1692.5,
+        "unit": "USD millions",
+        "quote": "Operating revenue | $ | 1,692.5 | $ | 1,544.9"
+      },
+      "operating_income": {
+        "value": 355.3,
+        "unit": "USD millions",
+        "quote": "Operating income | 355.3 | 264.3"
+      },
+      "net_income": {
+        "value": 211.7,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Equifax | $ | 211.7 | $ | 160.2"
+      },
+      "diluted_eps": {
+        "value": 1.79,
+        "unit": "USD per share",
+        "quote": "Diluted EPS attributable to Equifax was $1.79 per share in the third quarter of 2026"
+      }
+    },
+    "guidance": {
+      "text": "Equifax lowered its 2026 revenue guidance at the midpoint to $6.661 billion because of the weaker US mortgage market.",
+      "quote": "we are reducing our full year 2026 revenue guidance at the midpoint to $6.661 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Reported revenue was $1.693 billion, up 10%.",
+        "quote": "Third quarter reported revenue of $1.693 billion, up a strong 10% with 9% local currency revenue growth."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management expects the weaker US mortgage market to continue and has cut full-year revenue guidance.",
+        "quote": "we expect the much weaker U.S. mortgage market that we saw in the latter half of the third quarter to continue through the remainder of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says cost management should recover most of the gross margin impact of lower mortgage revenue.",
+        "quote": "the Equifax team is doing an outstanding job of managing cost and expenses including continuing to drive strong AI-driven operating cost efficiencies and optimizations"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the quarter strong but cuts full-year revenue guidance and expects a weaker mortgage market to continue."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/33185-0000033185-26-000037.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000037/exhibit99120260930.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000037/0000033185-26-000037-index.htm",
+    "saved_at": "2026-10-27T23:04:11+08:00"
+  }
+]
