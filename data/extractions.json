@@ -310,5 +310,248 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000037/exhibit99120260930.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000037/0000033185-26-000037-index.htm",
     "saved_at": "2026-10-27T23:04:11+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577 | $ | 289,007 | $ | 357,269"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflecting strong performance across the business"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Google Cloud revenues grew 103%, driven by AI demand.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:35+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 180,169 | $ | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net sales rose 12% in the third quarter.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Management says operating income rose to $28.1 billion.",
+        "quote": "Operating income increased to $28.1 billion in the third quarter, compared with $17.4 billion in third quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says net income fell, mainly because of gains in the prior year.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and expects AWS growth above 40% in 2027 and 2028."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:35+08:00"
+  },
+  {
+    "cik": "1282637",
+    "company": "NEWMARKET CORP",
+    "accession": "0001282637-26-000019",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 716.502,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 716,502 | $ | 690,311"
+      },
+      "operating_income": {
+        "value": 142.944,
+        "unit": "USD millions",
+        "quote": "Operating profit | 142,944 | 130,676"
+      },
+      "net_income": {
+        "value": 124.106,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 124,106 | $ | 100,269"
+      },
+      "diluted_eps": {
+        "value": 13.5,
+        "unit": "USD per share",
+        "quote": "Earnings per share - basic and diluted | $ | 13.50 | $ | 10.67"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management says net income rose, helped by higher operating profit and a lower tax rate.",
+        "quote": "Higher operating profit and a reduced effective tax rate were the primary drivers behind the rise in net income for both the third quarter and the first nine months of 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Management says petroleum additives shipments fell 8% but surcharges offset higher costs.",
+        "quote": "Despite broader market softness in lubricant additives that resulted in an 8% decline in shipments, we successfully implemented surcharges to offset higher costs incurred due to the supply chain disruptions in the Middle East."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management says the operating environment is dynamic but its actions position it well.",
+        "quote": "While the operating environment remains dynamic, we believe these actions position us well to continue delivering solid results."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management reports higher profit but notes softer shipments and a dynamic operating environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1282637-0001282637-26-000019.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1282637/000128263726000019/neu-20260930exx991earnings.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1282637/000128263726000019/0001282637-26-000019-index.htm",
+    "saved_at": "2026-11-04T06:08:35+08:00"
+  },
+  {
+    "cik": "1043509",
+    "company": "SONIC AUTOMOTIVE INC",
+    "accession": "0001043509-26-000007",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3988.8,
+        "unit": "USD millions",
+        "quote": "Total revenues | 3,988.8 | 3,973.8"
+      },
+      "operating_income": {
+        "value": 112.4,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 112.4 | 122.7"
+      },
+      "net_income": {
+        "value": 41.1,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 41.1 | $ | 46.8"
+      },
+      "diluted_eps": {
+        "value": 1.28,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share | $ | 1.28 | $ | 1.33"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says growth in EchoPark and Powersports offset declines in Franchised Dealerships.",
+        "quote": "revenue and gross profit growth in our EchoPark and Powersports segments offset declines in our Franchised Dealerships segment, driving all-time record quarterly consolidated revenues and gross profit"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says the company is acting to improve expense leverage in the near term.",
+        "quote": "We are taking action to prioritize improved expense leverage in the near term, while maintaining certain strategic investments"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The President says the franchised business faces a challenging consumer affordability environment.",
+        "quote": "emphasizing expense leverage opportunities while navigating a challenging consumer affordability environment"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management cites record revenue and growth in two segments but also declines in franchised dealerships and weak affordability."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1043509-0001043509-26-000007.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350926000007/q320268kexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350926000007/0001043509-26-000007-index.htm",
+    "saved_at": "2026-11-04T06:08:35+08:00"
   }
 ]
