@@ -1741,5 +1741,69 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:38:34+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 2,
+      "total": 2,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 8,
+      "mismatch": 0,
+      "cannot_check": 0
+    },
+    "companies": [
+      {
+        "cik": "1767258",
+        "company": "XPEL, Inc.",
+        "accession": "0001767258-26-000096",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1729149",
+        "company": "VIEMED HEALTHCARE, INC.",
+        "accession": "0001729149-26-000055",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 8 figures confirmed, 0 mismatches, 0 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:13:41+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1371,
+      "saved_for_run": 1371,
+      "match": true
+    },
+    "offline": false
   }
 ]
