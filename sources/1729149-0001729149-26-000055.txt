@@ -1,0 +1,205 @@
+Company: VIEMED HEALTHCARE, INC. (CIK 1729149)
+Accession: 0001729149-26-000055
+Results released: 2026-11-04
+Press release: https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/q32026earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/0001729149-26-000055-index.htm
+Saved: 2026-11-11T06:13:41+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026earningsrelease.htm EX-99.1
+VIEMED HEALTHCARE ANNOUNCES THIRD QUARTER 2026 FINANCIAL RESULTS
+Lafayette, Louisiana (November 4, 2026) Viemed Healthcare, Inc. (the “Company” or “Viemed”) (NASDAQ:VMD), a national provider of technology-enabled, home-based healthcare solutions and chronic disease management, announced today that it has reported its financial results for the three and nine months ended September 30, 2026, and updated guidance for the full year ending December 31, 2026.
+Third Quarter 2026 Financial and Operational Highlights (all dollar amounts are USD):
+•Net revenue for the quarter ended September 30, 2026 totaled a Company record $80.7 million, an increase of $8.8 million, or 12.2%, compared with the prior-year quarter, and 3.3% sequentially.
+•Net income attributable to Viemed totaled $4.6 million, or $0.11 per diluted share, an increase of 32.0% compared to $3.5 million, or $0.09 per diluted share, in the prior-year quarter, and a 67.8% sequential increase from $2.8 million in the second quarter of 2026. Net income attributable to Viemed represented 5.7% of net revenue, compared to 3.5% in the preceding quarter.
+•Adjusted EBITDA totaled $17.1 million, an increase of 5.8% year over year and 24.4% sequentially. Adjusted EBITDA as a percentage of net revenue increased to 21.1%, compared to 17.6% in the second quarter of 2026, representing an improvement of approximately 350 basis points.
+•Ventilator rental revenue increased 7.4% year over year to $37.5 million, supported by higher average patient volumes. The Company's period-end ventilator patient count totaled 12,552 as of September 30, 2026.
+•PAP therapy patients increased 37.5% year over year and 16.0% sequentially to 43,861 during the third quarter. Sleep resupply patients increased 22.1% year over year and 10.5% sequentially to 40,918.
+•Net cash provided by operating activities totaled $11.5 million for the quarter and $53.9 million for the trailing twelve months ended September 30, 2026. Free cash flow totaled $4.0 million for the quarter and $26.1 million for the trailing twelve months ended September 30, 2026.
+•The Company ended the quarter with $9.7 million in cash, $12.0 million in working capital, and approximately $46 million available under its existing credit facilities. During the quarter, the Company repaid $2.1 million of term debt and repurchased 115,000 common shares for approximately $1.0 million (excluding taxes).
+Updated Full Year 2026 Guidance (all dollar amounts are USD):
+Based on third quarter performance and increased visibility into the remainder of the year, the Company is raising the low end of its revenue guidance, narrowing its Adjusted EBITDA guidance range, and lowering its net capital expenditure outlook. The updated guidance reflects continued growth across the Company's diversified platform, anticipated sequential improvement in revenue and Adjusted EBITDA in the fourth quarter, and reduced capital intensity as less capital-intensive product and service offerings contribute a greater share of revenue.
+•Net revenue is expected to be in the range of $316 million to $320 million, compared with the previous range of $314 million to $320 million.
+•Adjusted EBITDA is expected to range from $64 million to $66 million, compared with the previous range of $64 million to $68 million.
+•Net capital expenditures are now expected to range from 8.0% to 9.0% of net revenue, compared with the previous range of 8.5% to 10.0%.
+This outlook excludes the impact of potential future acquisitions or other strategic transactions. See “Use of Non-GAAP Financial Information and Financial Guidance” below for further information about non-GAAP financial measures and non-GAAP financial guidance.
+Casey Hoyt, Viemed’s CEO, commented:
+“Viemed delivered another record quarter, with revenue reaching $80.7 million and continued growth across our respiratory, sleep, and women's health businesses. This marks our first full year-over-year quarterly comparison following the Lehan acquisition, and achieving double-digit revenue growth underscores the strength of our increasingly diversified platform and the opportunities ahead of us.”
+“We are particularly pleased with the improvement in profitability this quarter. Our attributable net income increased 68% sequentially, while Adjusted EBITDA grew 24%, significantly outpacing revenue growth and demonstrating improved operating leverage. These results reflect the progress we anticipated following our investments earlier this year, and we see additional opportunities to improve efficiency as those initiatives mature. We remain focused on expanding our reach, delivering high-quality patient care, and building on this momentum as we finish the year.”
+Conference Call Details
+The Company will host a conference call to discuss third quarter results on Thursday, November 5, 2026, at 11:00 a.m. ET.
+Interested parties may participate in the call by dialing:
+877-407-6176 (US Toll-Free)
++1 201-689-8451 (International)
+Live Audio Webcast: https://event.choruscall.com/mediaframe/webcast.html?webcastid=AAf4KB3V
+Following the conclusion of the call, an audio recording and transcript of the call can be accessed on the Company's website.
+ABOUT VIEMED HEALTHCARE, INC.
+Viemed is a provider of home medical equipment and post-acute healthcare services in the United States, with a focus on respiratory, chronic care, and women’s health products and services. Viemed’s model emphasizes efficient, high-quality care delivered in the home through a combination of high-touch clinical support and technology-enabled services, including therapy, education, and counseling provided by our clinical practitioners. For more information, visit our website at www.viemed.com.
+For further information, please contact:
+Investor Relations
+ir@viemed.com
+Trae Fitzgerald
+Chief Financial Officer
+337-504-3802
+Forward-Looking Statements
+Certain statements contained in this press release may constitute “forward-looking statements” within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 or “forward-looking information” as such term is defined in applicable Canadian securities legislation (collectively, “forward-looking statements”). Often, but not always, forward-looking statements can be identified by the use of words such as “plans”, “expects”, “is expected”, “budget”, “potential”, “scheduled”, “estimates”, “forecasts”, “intends”, “anticipates”, “believes”, “projects”, or the negatives thereof or variations of such words and phrases or statements that certain actions, events or results “will”, “should”, “may”, “could”, “would”, “might” or “will be taken”, “occur” or “be achieved” or the negative of these terms or comparable terminology. All statements other than statements of historical fact, including those that express, or involve discussions as to, expectations, beliefs, plans, objectives, assumptions or future events or performance, including the Company's 2026 net revenue, Adjusted EBITDA and net capital expenditure guidance, anticipated patient and revenue growth, expected improvements in operating efficiency, and profitability, anticipated benefits from technology, purchasing and operational initiatives, capital allocation priorities, share repurchases and future cash generation, are not historical facts and may be forward-looking statements and may involve estimates, assumptions and uncertainties that could cause actual results or outcomes to differ materially from those expressed in the forward-looking statements. Such statements reflect the Company's current views and intentions with respect to future events, and current information available to the Company, and are subject to certain risks, uncertainties and assumptions. Many factors could cause the actual results, performance or achievements that may be expressed or implied by such forward-looking statements to vary from those described herein should one or more of these risks or uncertainties materialize. These factors include, without limitation: the general business, market and economic conditions in the regions in which we operate; significant capital requirements and operating risks that we may be subject to; our ability to implement business strategies and pursue business opportunities; volatility in the market price of our common shares; the state of the capital markets; the availability of funds and resources to pursue operations; inflation; reductions in reimbursement rates and audits of reimbursement claims by various governmental and private payor entities; dependence on few payors; possible new drug discoveries; dependence on key suppliers; changes in U.S. trade policies and retaliatory responses from other countries, including tariffs; granting of permits and licenses in a highly regulated business; competition; disruptions in or attacks (including cyber-attacks) on our information technology, internet, network access or other voice or data communications systems or services; the evolution of various types of fraud or other criminal behavior to which we are exposed; difficulty integrating newly acquired businesses; the impact of new and changes to, or application of, current laws and regulations; the overall difficult litigation and regulatory environment; increased competition; increased funding costs and market volatility due to market illiquidity and competition for funding; critical accounting estimates and changes to accounting standards, policies, and methods used by us; the occurrence of natural and unnatural catastrophic events or health epidemics or concerns, and claims resulting from such events or concerns; the use of artificial intelligence technologies; as well as other general economic, market and business conditions; and other factors beyond our control; as well as those risk factors discussed or referred to in the Company’s disclosure documents filed with the U.S. Securities and Exchange Commission (the “SEC”) available on the SEC’s website at www.sec.gov, including the Company’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q, and with the securities regulatory authorities in certain provinces of Canada available at www.sedarplus.ca. Should any factor affect the Company in an unexpected manner, or should assumptions underlying the forward-looking statements prove incorrect, the actual results or events may differ materially from the results or events predicted. Any such forward-looking statements are expressly qualified in their entirety by this cautionary statement. Moreover, the Company does not assume responsibility for the accuracy or completeness of such forward-looking statements. The forward-looking statements included in this press release are made as of the date of this press release and the Company undertakes no obligation to publicly update or revise any forward-looking statements, other than as required by applicable law.
+Use of Non-GAAP Financial Information and Financial Guidance
+This press release includes references to financial measures that are calculated and presented using methodologies other than those in accordance with generally accepted accounting principles in the United States (“GAAP”), including Adjusted EBITDA and free cash flow. Any non-GAAP financial measures presented herein are intended to supplement, and not to be considered superior to or as a substitute for, the Company’s consolidated financial statements prepared in accordance with GAAP. These non-GAAP financial measures exclude significant expense and income items required by GAAP, and are subject to inherent limitations, including the exercise of judgment by management regarding which items to exclude or include. Non-GAAP measures presented herein may not be comparable to similarly titled measures presented by other companies. The reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the tables accompanying this release.
+This press release contains non-GAAP financial guidance. There is no reliable or reasonably estimable comparable GAAP measure for the Company’s non-GAAP financial guidance because the Company is not able to reliably predict the impact of certain items that typically have one or more of the following characteristics: highly variable, difficult to project, unusual in nature, significant to the results of a particular period or not indicative of future operating results. Similar charges or gains were recognized in prior periods and will likely reoccur in future periods. As a result, reconciliation of the non-GAAP financial guidance to the most directly comparable GAAP measure is not available without unreasonable effort. In addition, the Company believes such a reconciliation would imply a degree of precision and certainty that could be confusing to investors. The variability of the specified items may have a significant and unpredictable impact on the Company’s future GAAP results. The Company’s financial guidance in this press release excludes the impact of potential future acquisitions or strategic transactions and any items that have not yet been identified or quantified. This guidance is subject to risks and uncertainties inherent in all forward-looking statements, as outlined above.
+VIEMED HEALTHCARE, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Expressed in thousands of U.S. Dollars, except share amounts)
+(Unaudited)
+At September 30, 2026 | At December 31, 2025
+ASSETS
+Current assets
+Cash and cash equivalents | $ | 9,676 | $ | 13,501
+Accounts receivable, net | 34,887 | 25,586
+Inventory | 4,552 | 5,047
+Income tax receivable | — | 227
+Prepaid expenses and other assets | 10,175 | 4,132
+Total current assets | $ | 59,290 | $ | 48,493
+Long-term assets
+Property and equipment, net | 75,596 | 78,775
+Operating lease right-of-use assets | 4,242 | 3,580
+Equity investments | 3,184 | 2,794
+Deferred tax asset | 5,289 | 5,289
+Identifiable intangibles, net | 1,095 | 1,285
+Goodwill | 58,938 | 58,938
+Total long-term assets | $ | 148,344 | $ | 150,661
+TOTAL ASSETS | $ | 207,634 | $ | 199,154
+LIABILITIES
+Current liabilities
+Trade payables | $ | 10,628 | $ | 7,333
+Deferred revenue | 8,015 | 7,520
+Income taxes payable | 1,925 | —
+Accrued liabilities | 24,818 | 23,910
+Operating lease liabilities, current portion | 1,427 | 1,203
+Current portion of long-term debt | 511 | 1,090
+Total current liabilities | $ | 47,324 | $ | 41,056
+Long-term liabilities
+Accrued liabilities | 977 | 922
+Operating lease liabilities, less current portion | 2,835 | 2,364
+Long-term debt | 4,510 | 11,291
+Total long-term liabilities | $ | 8,322 | $ | 14,577
+TOTAL LIABILITIES | $ | 55,646 | $ | 55,633
+Commitments and Contingencies | — | —
+SHAREHOLDERS' EQUITY
+Common stock - No par value: unlimited authorized; 38,053,094 and 38,019,082 issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 17,937 | 16,912
+Additional paid-in capital | 19,277 | 21,742
+Retained earnings | 112,875 | 102,891
+TOTAL VIEMED HEALTHCARE, INC.'S SHAREHOLDERS' EQUITY | $ | 150,089 | $ | 141,545
+Noncontrolling interest in subsidiary | 1,899 | 1,976
+TOTAL SHAREHOLDERS' EQUITY | 151,988 | 143,521
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY | $ | 207,634 | $ | 199,154
+VIEMED HEALTHCARE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Expressed in thousands of U.S. Dollars, except outstanding shares and per share amounts)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 80,673 | $ | 71,914 | $ | 234,184 | $ | 194,099
+Cost of revenue | 34,481 | 30,569 | 100,117 | 82,744
+Gross profit | $ | 46,192 | $ | 41,345 | $ | 134,067 | $ | 111,355
+Operating expenses
+Selling, general and administrative | 35,508 | 31,919 | 107,432 | 89,147
+Research and development | 501 | 775 | 1,584 | 2,419
+Stock-based compensation | 2,476 | 2,180 | 6,959 | 6,832
+Depreciation and amortization | 392 | 397 | 1,168 | 1,098
+Loss (gain) on disposal of property and equipment | 412 | 476 | 1,366 | (2,528)
+Other income, net | (59) | (44) | (161) | (191)
+Income from operations | $ | 6,962 | $ | 5,642 | $ | 15,719 | $ | 14,578
+Non-operating income and expenses
+Loss from investments | — | — | 162 | —
+Interest expense, net | 177 | 507 | 730 | 818
+Net income before taxes | 6,785 | 5,135 | 14,827 | 13,760
+Provision for income taxes | 2,048 | 1,535 | 4,477 | 4,200
+Net income | $ | 4,737 | $ | 3,600 | $ | 10,350 | $ | 9,560
+Net income attributable to noncontrolling interest | 99 | 87 | 366 | 265
+Net income attributable to Viemed Healthcare, Inc. | $ | 4,638 | $ | 3,513 | $ | 9,984 | $ | 9,295
+Net income per share
+Basic | $ | 0.12 | $ | 0.09 | $ | 0.26 | $ | 0.24
+Diluted | $ | 0.11 | $ | 0.09 | $ | 0.24 | $ | 0.23
+Weighted average number of common shares outstanding:
+Basic | 38,102,064 | 38,638,660 | 38,257,518 | 39,190,666
+Diluted | 41,192,313 | 40,495,761 | 40,975,362 | 41,086,178
+VIEMED HEALTHCARE, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Expressed in thousands of U.S. Dollars)
+(Unaudited)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities
+Net income | $ | 10,350 | $ | 9,560
+Adjustments for:
+Depreciation and amortization | 22,859 | 21,043
+Stock-based compensation expense | 6,959 | 6,832
+Loss (gain) on disposal of property and equipment | 1,366 | (2,528)
+Amortization of deferred financing costs | 198 | 121
+Deferred income tax expense | — | 2,729
+Loss from other investments | 162 | —
+Changes in working capital:
+Accounts receivable, net | (9,301) | (670)
+Inventory | 495 | (163)
+Prepaid expenses and other assets | (6,010) | (626)
+Trade payables | 2,672 | 767
+Deferred revenue | 495 | 622
+Accrued liabilities | 3,063 | 1,584
+Income tax payable/receivable | 2,152 | (5,796)
+Net cash provided by operating activities | $ | 35,460 | $ | 33,475
+Cash flows from investing activities
+Purchase of property and equipment | (23,788) | (31,248)
+Investment in equity investments | (552) | —
+Cash paid for acquisitions, net of cash acquired | — | (26,332)
+Proceeds from sale of property and equipment | 3,555 | 15,026
+Net cash used in investing activities | $ | (20,785) | $ | (42,554)
+Cash flows from financing activities
+Proceeds from exercise of options | 1,071 | 1,439
+Proceeds from term notes | — | 9,000
+Principal payments on term notes | (7,558) | (484)
+Proceeds from revolving credit facilities | — | 13,000
+Payments on revolving credit facilities | — | (5,000)
+Shares redeemed to pay income tax | (2,082) | (1,732)
+Payments for share repurchase programs | (7,738) | (13,225)
+Repayments of finance lease liabilities | — | (50)
+Distributions to non-controlling interest | (443) | (286)
+Payments of acquisition-related contingent consideration | (1,750) | —
+Net cash provided by (used in) financing activities | $ | (18,500) | $ | 2,662
+Net decrease in cash and cash equivalents | (3,825) | (6,417)
+Cash and cash equivalents at beginning of year | 13,501 | 17,540
+Cash and cash equivalents at end of period | $ | 9,676 | $ | 11,123
+Supplemental disclosures of cash flow information
+Cash paid during the period for interest | $ | 508 | $ | 587
+Cash paid during the period for income taxes, net of refunds | $ | 2,326 | $ | 7,267
+Supplemental disclosures of non-cash transactions
+Equipment and other fixed asset purchases payable at end of period | $ | 3,844 | $ | 4,774
+Reconciliation from GAAP Net Income to Non-GAAP Adjusted EBITDA
+This press release refers to “Adjusted EBITDA”, which is a financial measure that is not prepared in accordance with generally accepted accounting principles in the United States ("GAAP"). Adjusted EBITDA should be considered in addition to, not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. Management believes Adjusted EBITDA provides helpful information with respect to the Company’s operating performance as viewed by management, including a view of the Company’s business that is not dependent on the impact of the Company’s capitalization structure and items that are not part of the Company’s day-to-day operations. Management uses Adjusted EBITDA (i) to compare the Company’s operating performance on a consistent basis, (ii) to calculate incentive compensation for the Company’s employees, (iii) for planning purposes, including the preparation of the Company’s internal annual operating budget, and (iv) to evaluate the performance and effectiveness of the Company’s operational strategies. Accordingly, management believes that Adjusted EBITDA provides useful information in understanding and evaluating the Company’s operating performance in the same manner as management. Adjusted EBITDA is not a measurement of the Company’s financial performance under GAAP and should not be considered as an alternative to revenue or net income, as applicable, or any other performance measures derived in accordance with GAAP. Adjusted EBITDA has limitations as an analytical tool and you should not consider it in isolation or as a substitute for analysis of the Company’s operating results as reported under GAAP. Adjusted EBITDA does not reflect the impact of certain cash charges resulting from matters the Company considers not to be indicative of ongoing operations; and other companies in the Company’s industry may calculate Adjusted EBITDA differently than we do, limiting its usefulness as a comparative measure. In calculating Adjusted EBITDA, certain items (mostly non-cash) are excluded from net income attributable to Viemed Healthcare, Inc., including depreciation and amortization of capitalized assets, net interest expense, stock based compensation, transaction costs, impairment of assets, and taxes.
+The following unaudited table is a reconciliation of net income attributable to Viemed Healthcare, Inc., the most directly comparable GAAP measure, to Adjusted EBITDA, on a historical basis for the periods indicated:
+(Expressed in thousands of U.S. Dollars)
+For the quarter ended | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | June 30, 2025 | March 31, 2025 | December 31, 2024
+Net income attributable to Viemed Healthcare, Inc. | $ | 4,638 | $ | 2,764 | $ | 2,582 | $ | 5,639 | $ | 3,513 | $ | 3,157 | $ | 2,625 | $ | 4,316
+Add back:
+Depreciation & amortization | 7,718 | 7,520 | 7,621 | 7,570 | 7,539 | 6,891 | 6,613 | 6,366
+Interest expense, net | 177 | 248 | 305 | 364 | 507 | 132 | 179 | 147
+Stock-based compensation(a) | 2,476 | 2,032 | 2,451 | 2,300 | 2,180 | 2,341 | 2,311 | 1,521
+Transaction costs(b) | — | — | 74 | 139 | 847 | 53 | 85 | 11
+Impairment of assets(c) | — | — | — | — | — | — | — | —
+Income tax expense | 2,048 | 1,151 | 1,278 | 2,191 | 1,535 | 1,713 | 952 | 1,881
+Adjusted EBITDA | $ | 17,057 | $ | 13,715 | $ | 14,311 | $ | 18,203 | $ | 16,121 | $ | 14,287 | $ | 12,765 | $ | 14,242
+(a) Represents non-cash, equity-based compensation expense associated with option and RSU awards.
+(b) Represents transaction costs and expenses related to acquisition and integration efforts associated with recently announced or completed acquisitions.
+(c) Represents impairments of the fair value of investment and litigation-related assets.
+Reconciliation from GAAP Net Cash Provided by Operating Activities to Non-GAAP Free Cash Flow
+This press release refers to “free cash flow” which is a non-GAAP financial measure that does not have a standardized meaning prescribed by GAAP. Free cash flow is defined as net cash provided by operating activities less net capital expenditures (“Net CAPEX”). Net CAPEX is calculated as purchases of property and equipment minus proceeds from the sale of property and equipment. The Company's presentation of this financial measure may not be comparable to similarly titled measures used by other companies.
+The Company presents free cash flow for the current quarter and trailing twelve months (TTM) as a supplemental liquidity measure. Management believes free cash flow provides investors with useful insight into the Company's ability to generate cash, fund growth initiatives, and return capital to shareholders. Free cash flow does not represent residual cash flow available for discretionary expenditures.
+The following table is a reconciliation of net cash provided by operating activities, the most directly comparable GAAP measure, to free cash flow, on a historical basis for the periods indicated:
+(Expressed in thousands of U.S. Dollars; unaudited)
+TTM | For the quarter ended
+September 30, 2026 | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025
+Net cash provided by operating activities | $ | 53,901 | $ | 11,487 | $ | 15,902 | $ | 8,071 | $ | 18,441
+Less:
+Purchase of property and equipment | (32,525) | (8,616) | (8,460) | (6,712) | (8,737)
+Proceeds from sale of property and equipment | 4,680 | 1,154 | 1,174 | 1,227 | 1,125
+Net CAPEX | (27,845) | (7,462) | (7,286) | (5,485) | (7,612)
+Free cash flow | $ | 26,056 | $ | 4,025 | $ | 8,616 | $ | 2,586 | $ | 10,829

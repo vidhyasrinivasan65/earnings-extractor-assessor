@@ -553,5 +553,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350926000007/q320268kexhibit991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1043509/000104350926000007/0001043509-26-000007-index.htm",
     "saved_at": "2026-11-04T06:08:35+08:00"
+  },
+  {
+    "cik": "1767258",
+    "company": "XPEL, Inc.",
+    "accession": "0001767258-26-000096",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 137.809,
+        "unit": "USD millions",
+        "quote": "Total revenue | 137,809 | 125,415 | 398,216 | 353,933"
+      },
+      "operating_income": {
+        "value": 21.078,
+        "unit": "USD millions",
+        "quote": "Operating Income | 21,078 | 16,751 | 57,304 | 47,169"
+      },
+      "net_income": {
+        "value": 16.341,
+        "unit": "USD millions",
+        "quote": "Net income attributable to stockholders of the Company | $ | 16,341 | $ | 12,940 | $ | 44,725 | $ | 37,816"
+      },
+      "diluted_eps": {
+        "value": 0.59,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.59 | $ | 0.47 | $ | 1.62 | $ | 1.37"
+      }
+    },
+    "guidance": {
+      "text": "XPEL expects revenue of about $125 million to $127 million in the fourth quarter of 2026.",
+      "quote": "The Company expects fourth quarter 2026 revenue of approximately $125 - $127 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew nearly 10% in a challenging environment.",
+        "quote": "We delivered a solid third quarter in a challenging environment, growing revenue nearly 10%"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says gross margin expanded for the third quarter in a row.",
+        "quote": "expanding gross margin for the third consecutive quarter"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the San Antonio and China manufacturing investments are on track and should expand margins in future years.",
+        "quote": "Our manufacturing investments in San Antonio and China remain on track, and we are confident they will drive meaningful margin expansion in the years ahead."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid and is confident about margins, while noting a challenging environment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1767258-0001767258-26-000096.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1767258/000176725826000096/xpelq32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1767258/000176725826000096/0001767258-26-000096-index.htm",
+    "saved_at": "2026-11-11T06:13:41+08:00"
+  },
+  {
+    "cik": "1729149",
+    "company": "VIEMED HEALTHCARE, INC.",
+    "accession": "0001729149-26-000055",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 80.673,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 80,673 | $ | 71,914 | $ | 234,184 | $ | 194,099"
+      },
+      "operating_income": {
+        "value": 6.962,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 6,962 | $ | 5,642 | $ | 15,719 | $ | 14,578"
+      },
+      "net_income": {
+        "value": 4.638,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Viemed Healthcare, Inc. | $ | 4,638 | $ | 3,513 | $ | 9,984 | $ | 9,295"
+      },
+      "diluted_eps": {
+        "value": 0.11,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.11 | $ | 0.09 | $ | 0.24 | $ | 0.23"
+      }
+    },
+    "guidance": {
+      "text": "Viemed now expects full-year 2026 net revenue of $316 million to $320 million, up from $314 million to $320 million at the low end.",
+      "quote": "Net revenue is expected to be in the range of $316 million to $320 million, compared with the previous range of $314 million to $320 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue reached a record $80.7 million, with growth across respiratory, sleep and women's health.",
+        "quote": "Viemed delivered another record quarter, with revenue reaching $80.7 million and continued growth across our respiratory, sleep, and women's health businesses."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says attributable net income rose 68% and Adjusted EBITDA 24% on the previous quarter, well ahead of revenue.",
+        "quote": "Our attributable net income increased 68% sequentially, while Adjusted EBITDA grew 24%, significantly outpacing revenue growth and demonstrating improved operating leverage."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO says double-digit revenue growth came in the first full year-on-year comparison after the Lehan acquisition.",
+        "quote": "This marks our first full year-over-year quarterly comparison following the Lehan acquisition, and achieving double-digit revenue growth underscores the strength of our increasingly diversified platform"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company raised the low end of its revenue guidance and narrowed its Adjusted EBITDA range.",
+        "quote": "the Company is raising the low end of its revenue guidance, narrowing its Adjusted EBITDA guidance range, and lowering its net capital expenditure outlook."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a record quarter, is pleased with profitability and speaks of building on momentum."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1729149-0001729149-26-000055.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/q32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/0001729149-26-000055-index.htm",
+    "saved_at": "2026-11-11T06:13:41+08:00"
   }
 ]
