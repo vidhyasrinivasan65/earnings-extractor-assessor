@@ -2297,5 +2297,421 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-11T06:38:34+08:00"
+  },
+  {
+    "accession": "0001193125-26-454474",
+    "cik": "1863127",
+    "company": "Tyra Biosciences, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty. The release gives no revenue line for this clinical-stage company, so this is not a fault."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Loss from operations (54,885)' is in the release and holds -54.885; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Net loss (51,122)' is in the release and holds -51.122; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote 'basic and diluted $ (0.74)' is in the release and holds -0.74; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers (-54.885, -51.122, -0.74). The 10-Q check is still to come: the filed figures could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income, net income and EPS are there. Revenue is empty because the release gives none, which is not a fault. The cash runway to 2030 is kept as claim M2."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands for the quarter's loss and EPS, but the figures still need the 10-Q check, and the extract does not give the year-ago loss of 32.944 million."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": "-54.885 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "-51.122 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-0.74 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "A claim about future clinical plans. The fundamentals cannot test it; the release only shows the $400 million financing and cash of $700.5 million."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Outlook on cash runway. The fundamentals give no cash burn. At the Q3 net loss of 51.1 a quarter, $700.5 million lasts about 14 quarters, to mid-2030, and the loss widened from 29.9 a year ago, so it is tight."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "The release's own table bears it out: R&D 43,144 against 25,469 thousand a year ago. Loss from operations widened to 54.885 from 32.944 million (release table)."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "The numbers show losses widening: loss from operations 54.885 against 32.944 million and net loss 51.1 against 29.9 million a year ago (release tables). The positive tone rests on trial data and the financing."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -54.885,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -51.122,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.74,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Management says the $400 million financing gives it the money to take dabogratinib through late-stage clinical development.",
+        "quote": "We now have the financial resources to advance our dabogratinib 3x3 strategy through late-stage clinical development.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The company expects its current financial resources to fund planned operations through 2030.",
+        "quote": "Following its September 2026 financing, the Company expects its current financial resources to fund planned operations through 2030.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "R&D expenses rose to $43.1 million from $25.5 million, driven mainly by dabogratinib trials.",
+        "quote": "R&D expenses for the three months ended September 30, 2026 were $43.1 million compared to $25.5 million for the same period in 2025.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls 2026 a defining year and says the company enters its next phase of growth from a position of strength."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:37:59+08:00"
+  },
+  {
+    "accession": "0001628280-26-072738",
+    "cik": "1596961",
+    "company": "RideNow Group, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Total revenue 244.3 281.0' is in the release and holds 244.3; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Operating income (loss) 4.2 9.4' is in the release and holds 4.2; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Net loss $ (13.9)' is in the release and holds -13.9; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote 'Diluted $ (0.36)' is in the release and holds -0.36; the 10-Q figures could not be read today (data.sec.gov blocked, 403)."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (244.3, 4.2, -13.9, -0.36). The 10-Q check is still to come: the filed figures could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the guidance (Q4 Adjusted EBITDA above Q3) is captured with its exact quote."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM as it stands, but the figures still need the 10-Q check, and claim M1 repeats management's cause without the store-closure effect."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "244.3 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "4.2 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "-13.9 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.36 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Revenue fell 13.1% to 244.3 from 281.0, but the release's own bullet blames lower units and store consolidation; same-store revenue fell only 7.9%, partly from weaker consumer spending. Clear Price is not the main cause."
+      },
+      "M2": {
+        "verdict": "does not match",
+        "reason": "Outlook. The latest trend points down: Adjusted EBITDA fell to 5.3 from 12.3 (-56.9%) and operating income to 4.2 from 9.4 (-55.3%) (release tables). Nothing in the release shows the Q4 rebound yet."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release tables: SG&A fell 4.8 to 59.6 from 64.4 (-7.5%), Adjusted SG&A to 57.7 from 61.5. But operating income still fell to 4.2 from 9.4 and SG&A rose to 91.0% of gross profit from 84.7%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "A balanced tone fits the numbers: revenue fell 13.1% to 244.3, operating income 55.3% to 4.2 and the net loss widened to 13.9 from 4.1 (release tables), while SG&A fell 7.5%."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 244.3,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 4.2,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -13.9,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.36,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 1.7191977077363898,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -5.6897257470323375,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says the fall in the quarter was mainly driven by the rollout of its Clear Price pricing strategy.",
+        "quote": "The contraction we saw in the third quarter was primarily driven by our proactive, company-wide rollout of the 'RideNow Clear Price' strategy, designed to fully comply with FTC pricing guidelines.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management says it already sees a rebound in the fourth quarter and expects Q4 Adjusted EBITDA to exceed Q3.",
+        "quote": "In fact, we are already seeing a rebound in the fourth quarter as consumer awareness grows, and we expect Q4 Adjusted EBITDA to outpace Q3, bucking our typical seasonal trend.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says it cut costs by $4.6 million on an annualised basis and expects $10 million more in run-rate savings by the end of 2027.",
+        "quote": "We reduced costs by $4.6 million on an annualized basis during the quarter, and we continue to make great progress on our operational transformation and expect to yield an incremental $10 million of run-rate cost savings as we exit 2027.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO admits the quarter contracted because of the pricing rollout but points to a fourth-quarter rebound and cost cuts."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-13T06:37:59+08:00"
   }
 ]

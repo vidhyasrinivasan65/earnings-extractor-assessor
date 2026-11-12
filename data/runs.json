@@ -1979,5 +1979,78 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-13T06:37:59+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-13-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 2,
+      "failures": [
+        {
+          "name": "Tyra Biosciences, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "RideNow Group, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1863127",
+        "company": "Tyra Biosciences, Inc.",
+        "accession": "0001193125-26-454474",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1596961",
+        "company": "RideNow Group, Inc.",
+        "accession": "0001628280-26-072738",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 2,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 0 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-13T06:08:48+08:00",
+      "watch_brief": "briefs/2026-11-13-watch.md",
+      "brief_says": 166,
+      "saved_for_run": 166,
+      "match": true
+    },
+    "offline": false
   }
 ]
