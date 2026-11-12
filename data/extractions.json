@@ -685,5 +685,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/q32026earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1729149/000172914926000055/0001729149-26-000055-index.htm",
     "saved_at": "2026-11-11T06:13:41+08:00"
+  },
+  {
+    "cik": "1863127",
+    "company": "Tyra Biosciences, Inc.",
+    "accession": "0001193125-26-454474",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -54.885,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (54,885 | )"
+      },
+      "net_income": {
+        "value": -51.122,
+        "unit": "USD millions",
+        "quote": "Net loss | (51,122 | )"
+      },
+      "diluted_eps": {
+        "value": -0.74,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.74 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Management says the $400 million financing gives it the money to take dabogratinib through late-stage clinical development.",
+        "quote": "We now have the financial resources to advance our dabogratinib 3x3 strategy through late-stage clinical development."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The company expects its current financial resources to fund planned operations through 2030.",
+        "quote": "Following its September 2026 financing, the Company expects its current financial resources to fund planned operations through 2030."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "R&D expenses rose to $43.1 million from $25.5 million, driven mainly by dabogratinib trials.",
+        "quote": "R&D expenses for the three months ended September 30, 2026 were $43.1 million compared to $25.5 million for the same period in 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls 2026 a defining year and says the company enters its next phase of growth from a position of strength."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1863127-0001193125-26-454474.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1863127/000119312526454474/tyra-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1863127/000119312526454474/0001193125-26-454474-index.htm",
+    "saved_at": "2026-11-13T06:08:48+08:00"
+  },
+  {
+    "cik": "1596961",
+    "company": "RideNow Group, Inc.",
+    "accession": "0001628280-26-072738",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 244.3,
+        "unit": "USD millions",
+        "quote": "Total revenue | 244.3 | 281.0"
+      },
+      "operating_income": {
+        "value": 4.2,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 4.2 | 9.4"
+      },
+      "net_income": {
+        "value": -13.9,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (13.9) | $ | (4.1) | $ | (11.7) | $ | (46.0)"
+      },
+      "diluted_eps": {
+        "value": -0.36,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.36)"
+      }
+    },
+    "guidance": {
+      "text": "RideNow expects fourth-quarter 2026 Adjusted EBITDA to be higher than in the third quarter.",
+      "quote": "we expect Q4 Adjusted EBITDA to outpace Q3, bucking our typical seasonal trend"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says the fall in the quarter was mainly driven by the rollout of its Clear Price pricing strategy.",
+        "quote": "The contraction we saw in the third quarter was primarily driven by our proactive, company-wide rollout of the 'RideNow Clear Price' strategy, designed to fully comply with FTC pricing guidelines."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management says it already sees a rebound in the fourth quarter and expects Q4 Adjusted EBITDA to exceed Q3.",
+        "quote": "In fact, we are already seeing a rebound in the fourth quarter as consumer awareness grows, and we expect Q4 Adjusted EBITDA to outpace Q3, bucking our typical seasonal trend."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says it cut costs by $4.6 million on an annualised basis and expects $10 million more in run-rate savings by the end of 2027.",
+        "quote": "We reduced costs by $4.6 million on an annualized basis during the quarter, and we continue to make great progress on our operational transformation and expect to yield an incremental $10 million of run-rate cost savings as we exit 2027."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO admits the quarter contracted because of the pricing rollout but points to a fourth-quarter rebound and cost cuts."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1596961-0001628280-26-072738.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1596961/000162828026072738/rdnwq32026earningsrelease-.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1596961/000162828026072738/0001628280-26-072738-index.htm",
+    "saved_at": "2026-11-13T06:08:48+08:00"
   }
 ]

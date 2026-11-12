@@ -1,0 +1,316 @@
+Company: RideNow Group, Inc. (CIK 1596961)
+Accession: 0001628280-26-072738
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1596961/000162828026072738/rdnwq32026earningsrelease-.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1596961/000162828026072738/0001628280-26-072738-index.htm
+Saved: 2026-11-13T06:08:48+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 rdnwq32026earningsrelease-.htm EX-99.1
+Exhibit 99.1
+RideNow Group, Inc. Reports Third Quarter 2026 Financial Results
+CHANDLER, ARIZONA – November 10, 2026 – RideNow Group, Inc. (NASDAQ: RDNW), ("we", "our", the "Company", or "RideNow"), today announced financial results for the third quarter ended September 30, 2026.
+Key Third Quarter 2026 Highlights (Compared to Third Quarter 2025)
+•Total revenue was $244.3 million, a decrease of 13.1%, primarily from lower unit volume coupled with our store consolidation efforts.
+•On a same store sales basis, Powersports Revenue was down 7.9%, due to a decrease in unit sales, largely driven by a reduction in overall consumer discretionary spending and the initial market implementation of the Company's new Clear Price transparent pricing model, proactively introduced to align with recent Federal Trade Commission ("FTC") guidance and enforcement priorities regarding vehicle pricing and fee transparency.
+•Successfully refinanced our senior secured term loan facility with a new $220.0 million term loan maturing in September 2031, and entered into advanced discussions for a new $50.0 million senior secured asset-based revolving credit facility (ABL Facility) to enhance overall available liquidity.
+•Total gross profit was $65.5 million, down 13.8%.
+•Selling, general & administrative expenses ("SG&A") were down $4.8 million to $59.6 million, from $64.4 million in the prior year.
+•Net loss increased to $13.9 million as compared to a net loss of $4.1 million in the prior year.
+•Adjusted EBITDA decreased to $5.3 million from $12.3 million.
+Commenting on the quarter, Chairman, Chief Executive Officer and President Michael Quartieri said, “The contraction we saw in the third quarter was primarily driven by our proactive, company-wide rollout of the 'RideNow Clear Price' strategy, designed to fully comply with FTC pricing guidelines. While the August rollout impacted our retail volume against non-compliant competitors during the quarter, we believe it is the right move to build long-term customer trust and position us as the dealership group of choice. In fact, we are already seeing a rebound in the fourth quarter as consumer awareness grows, and we expect Q4 Adjusted EBITDA to outpace Q3, bucking our typical seasonal trend. We reduced costs by $4.6 million on an annualized basis during the quarter, and we continue to make great progress on our operational transformation and expect to yield an incremental $10 million of run-rate cost savings as we exit 2027. During the quarter, we refinanced our term debt, extending our maturities to 2031 and completed an accretive tuck-in acquisition of a dealership in Tallahassee, Florida. Ultimately, the structural changes and cost reductions we are implementing, coupled with accretive acquisitions, set us up very well to capture substantial operating leverage when the broader powersports cycle rebounds."
+1
+Third Quarter 2026 Results
+Three Months Ended September 30,
+($ in millions) | 2026 | 2025 | YOY Change
+Revenue | $ | 244.3 | $ | 281.0 | (13.1) | %
+Gross Profit | $ | 65.5 | $ | 76.0 | (13.8) | %
+SG&A | $ | 59.6 | $ | 64.4 | (7.5) | %
+Adjusted SG&A(1) | $ | 57.7 | $ | 61.5 | (6.2) | %
+Operating Income | $ | 4.2 | $ | 9.4 | (55.3) | %
+Net Loss | $ | (13.9) | $ | (4.1) | 239.0 | %
+Adjusted EBITDA(1) | $ | 5.3 | $ | 12.3 | (56.9) | %
+Unit Retail Sales:
+New Powersports | 8,127 | 9,904 | (17.9) | %
+Pre-owned Powersports | 4,055 | 4,701 | (13.7) | %
+Nine Months Ended September 30,
+($ in millions) | 2026 | 2025 | YOY Change
+Operating Cash Flow | $ | (41.7) | $ | 15.5 | (369.0) | %
+Capital Expenditures | $ | (2.5) | $ | (5.0) | (50.0) | %
+Adjusted Free Cash Flow(1) | $ | 14.2 | $ | 5.2 | 173.1 | %
+September 30, | December 31,
+2026 | 2025 | Change
+Cash (unrestricted) | $ | 29.2 | $ | 29.5 | (1.0) | %
+Long-term Debt, including Current Maturities | $ | 219.0 | $ | 207.6 | 5.5 | %
+Principal of Long-Term Debt, including Current Maturities | $ | 232.9 | $ | 218.8 | 6.4 | %
+Non-Vehicle Net Debt(1) | $ | 203.7 | $ | 189.3 | 7.6 | %
+NM = not meaningful.
+(1) Adjusted SG&A, Adjusted EBITDA, Adjusted Free Cash Flow, and Non-Vehicle Net Debt are non-GAAP measures. Reconciliations of most directly comparable GAAP to non-GAAP financial measures are provided in accompanying financial schedules.
+Third Quarter 2026 — Operating Results
+2
+Key Operating Metrics
+Three Months Ended September 30, | Nine Months Ended September 30,
+$ in millions, except per unit | 2026 | 2025 | YOY Change | 2026 | 2025 | YOY Change
+Vehicle Unit Sales (#)
+Retail
+New | 8,127 | 9,904 | (17.9) | % | 28,266 | 28,535 | (0.9) | %
+Pre-owned | 4,055 | 4,701 | (13.7) | % | 13,572 | 14,291 | (5.0) | %
+Total retail | 12,182 | 14,605 | (16.6) | % | 41,838 | 42,826 | (2.3) | %
+Wholesale | 704 | 1,344 | (47.6) | % | 2,378 | 3,426 | (30.6) | %
+Total Powersports Unit Sales | 12,886 | 15,949 | (19.2) | % | 44,216 | 46,252 | (4.4) | %
+Revenue
+New retail vehicles | $ | 125.6 | $ | 147.1 | (14.6) | % | $ | 417.2 | $ | 422.0 | (1.1) | %
+Pre-owned retail vehicles | 45.5 | 53.5 | (15.0) | % | 154.6 | 160.8 | (3.9) | %
+Wholesale vehicles | 4.4 | 3.7 | 18.9 | % | 15.3 | 12.5 | 22.4 | %
+Finance & Insurance, net | 21.7 | 24.9 | (12.9) | % | 70.5 | 73.2 | (3.7) | %
+Parts, Service, and Accessories | 47.1 | 50.8 | (7.3) | % | 143.9 | 149.3 | (3.6) | %
+Total Powersports Revenue | $ | 244.3 | $ | 280.0 | (12.8) | % | $ | 801.5 | $ | 817.8 | (2.0) | %
+Gross Profit
+New retail vehicles | $ | 16.3 | $ | 18.5 | (11.9) | % | $ | 58.6 | $ | 55.3 | 6.0 | %
+Pre-owned retail vehicles | 5.7 | 8.6 | (33.7) | % | 24.8 | 27.5 | (9.8) | %
+Wholesale vehicles | (0.5) | (0.2) | 150.0 | % | (0.5) | (0.1) | 400.0 | %
+Finance & Insurance, net | 21.7 | 24.9 | (12.9) | % | 70.5 | 73.2 | (3.7) | %
+Parts, Service, and Accessories | 22.3 | 23.9 | (6.7) | % | 68.5 | 69.6 | (1.6) | %
+Total Powersports Gross Profit | $ | 65.5 | $ | 75.7 | (13.5) | % | $ | 221.9 | $ | 225.5 | (1.6) | %
+Powersports GPU(1) | $ | 5,376.8 | $ | 5,183.2 | 3.7 | % | $ | 5,303.8 | $ | 5,265.5 | 0.7 | %
+(1) Calculated as total powersports gross profit divided by total retail units sold.
+3
+Same Store Metrics(1) | Three Months Ended September 30, | Nine Months Ended September 30,
+$ in millions, except units and per unit | 2026 | 2025 | YOY Change | 2026 | 2025 | YOY Change
+Same Store Units (#)
+Retail
+New vehicles | 8,127 | 9,164 | (11.3) | % | 28,177 | 27,044 | 4.2 | %
+Pre-owned vehicles | 4,055 | 4,504 | (10.0) | % | 13,572 | 13,655 | (0.6) | %
+Total retail | 12,182 | 13,668 | (10.9) | % | 41,749 | 40,699 | 2.6 | %
+Wholesale | 514 | 921 | (44.2) | % | 1,636 | 2,273 | (28.0) | %
+Total Powersports Unit Sales | 12,696 | 14,589 | (13.0) | % | 43,385 | 42,972 | 1.0 | %
+Same Store Revenue
+New retail vehicles | $ | 125.6 | $ | 138.0 | (9.0) | % | $ | 417.5 | $ | 403.6 | 3.4 | %
+Pre-owned retail vehicles | 45.5 | 51.0 | (10.8) | % | 154.6 | 153.5 | 0.7 | %
+Total retail | 171.1 | 189.0 | (9.5) | % | 572.1 | 557.1 | 2.7 | %
+Wholesale vehicles | 3.4 | 2.0 | 70.0 | % | 10.4 | 6.6 | 57.6 | %
+Total Same Store Vehicles | 174.5 | 191.0 | (8.6) | % | 582.5 | 563.7 | 3.3 | %
+Finance & Insurance, net | 19.9 | 22.0 | (9.5) | % | 65.6 | 65.8 | (0.3) | %
+Parts, Services, and Accessories | 47.0 | 49.0 | (4.1) | % | 143.8 | 144.3 | (0.3) | %
+Total Powersports Revenue | $ | 241.4 | $ | 262.0 | (7.9) | % | $ | 791.9 | $ | 773.8 | 2.3 | %
+Same Store Gross Profit
+New retail vehicles | $ | 16.5 | $ | 19.0 | (13.2) | % | $ | 59.6 | $ | 57.3 | 4.0 | %
+Pre-owned retail vehicles | 7.0 | 8.0 | (12.5) | % | 26.0 | 26.2 | (0.8) | %
+Total retail | 23.5 | 27.0 | (13.0) | % | 85.6 | 83.5 | 2.5 | %
+Wholesale vehicles | (0.5) | — | NM | (0.7) | (0.2) | 250.0 | %
+Total Same Store Vehicles | 23.0 | 27.0 | (14.8) | % | 84.9 | $ | 83.3 | 1.9 | %
+Finance & Insurance, net | 19.9 | 22.0 | (9.5) | % | 65.6 | 65.8 | (0.3) | %
+Parts, Services, and Accessories | 22.9 | 23.0 | (0.4) | % | 69.9 | 68.1 | 2.6 | %
+Total Same Store Gross Profit | $ | 65.8 | $ | 72.0 | (8.6) | % | $ | 220.4 | $ | 217.2 | 1.5 | %
+Same Store Powersports GPU(2) | $ | 5,401.4 | $ | 5,267.8 | 2.5 | % | $ | 5,279.2 | $ | 5,336.7 | (1.1) | %
+(1) Same store revenue and same store gross profit are calculated on the same basis but exclude fleet sales, certain shared store support and corporate overhead expenses and the effects in all periods presented of the five stores that were closed or sold in 2025.
+(2) Calculated as total same store powersports gross profit divided by total same store retail units.
+Balance Sheet, Liquidity and Cash Flow
+The Company ended the quarter with $47.6 million in total cash, inclusive of restricted cash, and $203.7 million of non-vehicle net debt. Availability under the Company's powersports floor plan lines of credit totaled approximately $101.8 million as of September 30, 2026. Total Available Liquidity, defined as total cash plus availability under floorplan credit facilities, was $149.4 million as of September 30, 2026. Cash outflows from operating activities were $41.7 million for the nine months ended September 30, 2026, compared to inflows of $15.5 million for the same period in 2025.
+Investor Conference Call
+The Company's management will host a conference call to discuss these results on November 10, 2026 at 4:30 p.m. Eastern Time. To access the conference call, United States callers may dial 1-800-717-1738 (1-646-307-1865
+4
+for callers outside of the United States) and enter conference ID 68455. A live and archived webcast will be accessible from the Company's Investor Relations website at https://investors.ridenow.com.
+About the Company
+RideNow Group, Inc. (NASDAQ: RDNW) is a powersports dealership group. We believe our powersports business is the largest powersports retail group in the United States, offering a wide selection of new and pre-owned motorcycles, all-terrain vehicles, utility terrain or side-by-side vehicles, personal watercraft, snowmobiles, and other powersports products. We also offer parts, apparel, accessories, finance & insurance products and services, and aftermarket products from a wide range of manufacturers. We are one of the largest purchasers of pre-owned powersports vehicles in the United States and utilize our proprietary RideNow Cash Offer tool to acquire vehicles directly from consumers. To learn more, please visit us online at https://www.ridenow.com.
+Forward-Looking Statements
+This press release contains "forward-looking statements" as that term is defined under the Private Securities Litigation Reform Act of 1995, which statements may be identified by words such as "expects," "projects," "will," "may," "anticipates," "believes," "should," "intends," "estimates," and other words of similar meaning. Readers are cautioned not to place undue reliance on these forward-looking statements, which are based on our expectations as of the date of this press release and speak only as of the date of this press release. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied. Forward-looking statements contained in this press release include, but are not limited to, statements about our future results of operations and financial position, expected financial forecasts including Adjusted EBITDA, business strategy and plans, including the anticipated benefits of our strategic initiatives, including our cost reduction actions and the anticipated cost savings therefrom, our Clear Price pricing model and recent acquisitions, industry and business trends, the expected duration and impact of macroeconomic, consumer demand and regulatory conditions on our business, our positioning when such conditions improve, the sufficiency of our liquidity and capital resources, our ability to service, refinance or repay our indebtedness on or prior to its maturity, our ability to comply with the covenants under our Credit Agreement, our expectations regarding the anticipated ABL Facility, growth opportunities, same store sales trends, and our objectives for future operations. Our actual future results and trends may differ materially depending on a variety of factors, including, but not limited to, the following: our ability to grow our business both organically and through strategic acquisitions and to realize our plans and strategies; our ability to acquire sufficient powersports inventory to satisfy consumer demand or our expectations for the business; our dependence on key personnel to operate our business and our ability to retain, attract, and integrate qualified personnel; internal control matters; our reliance on third-party financing providers to finance a substantial portion of our customers' powersports vehicle purchases and to supply extended protection products; the success of our marketing and branding efforts and our ability to attract new customers; adverse conditions affecting one or more of the powersports manufacturers with which we hold franchises, or their inability to deliver a desirable mix of vehicles; our dependence on manufacturer relationships and restrictions imposed by vehicle manufacturers; product liability claims and manufacturer safety recalls; natural disasters, adverse weather, and other disruptive events; our ability to adequately protect our intellectual property; and concentration of leases with entities controlled by our directors; our significant indebtedness and its effect on business flexibility; our need to refinance our indebtedness at or prior to its maturity, and our need for additional financing or capital for acquisitions or unforeseen circumstances; our dependence on floor plan facilities for inventory financing, which may be reduced or terminated; and interest rate risk in connection with floor plan payables and other debt instruments; sensitivity of the powersports industry to unfavorable economic conditions and other demand factors; changes in trade policies, including the imposition of tariffs; operating in a highly competitive market for powersports products and services; potential reduction or discontinuation of manufacturer sales incentive, warranty, or promotional programs; and seasonality and weather trends causing fluctuations in revenue and operating results; our reliance on Internet search engines to drive website traffic; potential disruption in service on our websites; cybersecurity risks and incidents affecting our operations and third-party providers; and compliance with privacy, security, and data processing laws and regulations regarding personal information; potential repeal or weakening of state laws protecting powersports retailers; compliance with a wide range of federal, state, and local laws and regulations; and exposure to various legal proceedings, as well as the factors listed under the heading "Forward-Looking Statements" and "Risk Factors" in the Company's SEC filings, as may be updated and amended from time to time. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+5
+Investor Relations Contact:
+investors@ridenow.com
+Non-GAAP Measures
+To supplement its Unaudited Condensed Consolidated Financial Statements, which are prepared and presented in accordance with accounting principles generally accepted in the United States of America (“GAAP”), the Company uses the following non-GAAP financial measures: EBITDA, Adjusted EBITDA, Adjusted Free Cash Flow, Non-Vehicle Net Debt, and Adjusted SG&A (collectively the “non-GAAP financial measures”). The presentation of this financial information is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. The Company uses these non-GAAP financial measures for financial and operational decision making and as a means to evaluate period-to-period comparisons. The Company believes that they provide useful information about operating results, enhance the overall understanding of our operating performance and future prospects, and allow for greater transparency with respect to key metrics used by management in its financial and operational decision making. The non-GAAP measures used by the Company in this press release may be different from the measures used by other companies.
+6
+RideNow Group, Inc.
+Unaudited Condensed Consolidated Statements of Operations
+(amounts in millions, except share and per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue:
+Powersports vehicles | $ | 175.5 | $ | 204.3 | $ | 587.1 | $ | 595.3
+Parts, service and accessories | 47.1 | 50.8 | 143.9 | 149.3
+Finance and insurance, net | 21.7 | 24.9 | 70.5 | 73.2
+Vehicle transportation services | — | 1.0 | — | 7.8
+Total revenue | 244.3 | 281.0 | 801.5 | 825.6
+Cost of revenue:
+Powersports vehicles | 154.0 | 177.4 | 504.2 | 512.6
+Parts, service and accessories | 24.8 | 26.9 | 75.4 | 79.7
+Vehicle transportation services | — | 0.7 | — | 6.2
+Total cost of revenue | 178.8 | 205.0 | 579.6 | 598.5
+Gross profit | 65.5 | 76.0 | 221.9 | 227.1
+Selling, general and administrative | 59.6 | 64.4 | 186.7 | 192.2
+Depreciation and amortization | 1.7 | 2.2 | 5.5 | 6.5
+Impairment of franchise rights | — | — | — | 34.0
+Operating income (loss) | 4.2 | 9.4 | 29.7 | (5.6)
+Other income (expense):
+Floor plan interest expense | (3.2) | (3.1) | (7.9) | (8.5)
+Loss on debt extinguishment | (5.7) | — | (5.7) | —
+Other interest expense, net | (9.0) | (10.4) | (27.4) | (32.1)
+Other (expense) income | — | 0.1 | (0.1) | 0.5
+Total other expense | (17.9) | (13.4) | (41.1) | (40.1)
+Loss before income taxes | (13.7) | (4.0) | (11.4) | (45.7)
+Income tax expense | 0.2 | 0.1 | 0.3 | 0.3
+Net loss | $ | (13.9) | $ | (4.1) | $ | (11.7) | $ | (46.0)
+Loss per share
+Basic | $ | (0.36) | $ | (0.11) | $ | (0.30) | $ | (1.21)
+Diluted | $ | (0.36) | $ | (0.11) | $ | (0.30) | $ | (1.21)
+Weighted average number of common shares outstanding
+Basic | 38,952,940 | 38,052,057 | 38,652,642 | 37,916,526
+Diluted | 38,952,940 | 38,052,057 | 38,652,642 | 37,916,526
+7
+RideNow Group, Inc.
+Condensed Consolidated Balance Sheets
+(amounts in millions)
+September 30, | December 31,
+2026 | 2025
+ASSETS | (Unaudited)
+Current assets:
+Cash | $ | 29.2 | $ | 29.5
+Restricted cash | 18.4 | 13.4
+Accounts receivable, net | 26.6 | 28.9
+Inventory | 329.2 | 257.4
+Prepaid expense and other current assets | 7.5 | 5.5
+Total current assets | 410.9 | 334.7
+Property and equipment, net | 57.8 | 60.5
+Right-of-use assets | 143.8 | 150.4
+Franchise rights and other intangible assets, net | 129.5 | 127.0
+Other assets | 1.1 | 1.0
+Total assets | $ | 743.1 | $ | 673.6
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current liabilities:
+Accounts payable and other current liabilities | $ | 79.1 | $ | 77.7
+Floor plan notes payable | 291.9 | 218.4
+Current portion of debt | 0.7 | 0.4
+Total current liabilities | 371.7 | 296.5
+Long-term liabilities:
+Long-term debt, net of current maturities | 218.3 | 207.2
+Long-term portion of operating lease liabilities | 122.3 | 128.0
+Other long-term liabilities, including finance lease obligation | 52.9 | 54.4
+Total long-term liabilities | 393.5 | 389.6
+Total liabilities | 765.2 | 686.1
+Commitments and contingencies
+Stockholders' deficit:
+Additional paid-in capital | 706.2 | 704.1
+Accumulated deficit | (724.0) | (712.3)
+Treasury stock | (4.3) | (4.3)
+Total stockholders' deficit | (22.1) | (12.5)
+Total liabilities and stockholders' deficit | $ | 743.1 | $ | 673.6
+8
+RideNow Group, Inc.
+Unaudited Condensed Consolidated Statements of Cash Flows
+(amounts in millions)
+Nine Months Ended September 30,
+2026 | 2025
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss | $ | (11.7) | $ | (46.0)
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities:
+Depreciation and amortization | 5.5 | 6.5
+Stock-based compensation | 2.1 | 1.3
+Amortization of debt discount and issuance costs | 4.7 | 7.2
+Interest paid-in-kind capitalized in debt principal | 3.1 | 1.9
+Impairment of franchise rights | — | 34.0
+Loss on debt extinguishment | 5.7 | —
+Provision for credit losses | 0.4 | —
+Loss on fixed asset disposals | 0.2 | —
+Gain on lease termination | — | (0.4)
+Changes in operating assets and liabilities:
+Accounts receivable | 1.9 | (3.2)
+Inventory | (67.1) | (25.4)
+Prepaid expenses and other assets | (1.2) | (3.0)
+Accounts payable and other current liabilities | 0.7 | 9.4
+Other liabilities | 2.1 | 2.5
+Floor plan trade note borrowings, net | 11.9 | 30.7
+Net cash (used in) provided by operating activities | (41.7) | 15.5
+CASH FLOWS FROM INVESTING ACTIVITIES
+Cash used for acquisition | (4.1) | —
+Purchase of property and equipment | (2.5) | (5.0)
+Capitalization of internal-use software costs | (0.5) | (0.1)
+Net cash used in investing activities | (7.1) | (5.1)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from issuance of debt, net of debt discount | 213.4 | 10.0
+Payments of debt issuance costs | (7.1) | —
+Repayments of debt | (209.0) | (59.1)
+Net proceeds on non-trade floor plan facilities | 58.4 | (5.3)
+Payment of existing credit agreement exit fee | (2.1) | —
+Shares redeemed for employee tax obligations | (0.1) | —
+Other | — | (0.9)
+Net cash provided by (used in) financing activities | 53.5 | (55.3)
+NET CHANGE IN CASH AND RESTRICTED CASH | 4.7 | (44.9)
+Cash and restricted cash at beginning of period | 42.9 | 96.7
+Cash and restricted cash at end of period | $ | 47.6 | $ | 51.8
+9
+RideNow Group, Inc.
+Non-GAAP Measures
+(Unaudited)
+(amounts in millions)
+EBITDA and Adjusted EBITDA
+We define EBITDA as net income (loss) adjusted to add back non-floor plan interest expense, the impact of income taxes, depreciation and amortization. Adjusted EBITDA further adds back non-cash stock-based compensation, management transition costs, certain litigation expenses not associated with ongoing operations, lease expense associated with favorable related party leases in excess of contractual lease payments, impairment of franchise rights, and certain other costs and credits, as these recoveries, charges and expenses are not considered a part of our core business operations and are not necessarily an indicator of ongoing, future company performance.
+EBITDA and Adjusted EBITDA are adjusted to reflect an addback for floor plan interest expense. Our industry typically treats interest expense on vehicle floor plan debt as an operating expense, as vehicle floor plan debt is integral to our operations and is collateralized by our powersports vehicles.
+Adjusted EBITDA is one of the primary metrics we use to evaluate the financial performance of our business. We present Adjusted EBITDA because we believe it is helpful in highlighting trends in our operating results and it is frequently used by analysts, investors and other interested parties to evaluate companies in our industry.
+A reconciliation of net loss to EBITDA and Adjusted EBITDA is provided below:
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net loss (GAAP) | $ | (13.9) | $ | (4.1) | $ | (11.7) | $ | (46.0)
+Add back:
+Non-floor plan interest expense | 9.0 | 10.4 | 27.4 | 32.1
+Depreciation and amortization | 1.7 | 2.2 | 5.5 | 6.5
+Income tax expense | 0.2 | 0.1 | 0.3 | 0.3
+EBITDA (non-GAAP) | (3.0) | 8.6 | 21.5 | (7.1)
+Adjustments:
+Non-cash stock-based compensation | 0.7 | 0.8 | 2.1 | 1.3
+Lease expense associated with favorable related party leases in excess of contractual lease payments | 0.2 | 0.3 | 0.6 | 0.8
+Other costs(1) | 1.6 | 2.6 | 5.1 | 6.4
+Transaction costs(2) | 5.8 | — | 5.8 | —
+Management transition costs | — | — | — | 1.1
+Impairment of franchise rights | — | — | — | 34.0
+Adjusted EBITDA (non-GAAP) | $ | 5.3 | $ | 12.3 | $ | 35.1 | $ | 36.5
+(1) Other costs, such as costs incurred for litigation not part of our normal, ongoing operations.
+(2) Represents costs expensed for the debt refinancing in the third quarter of 2026.
+10
+RideNow Group, Inc.
+Non-GAAP Measures
+(Unaudited)
+(amounts in millions)
+Adjusted Free Cash Flow
+Beginning with the period ended June 30, 2026, we present our non-GAAP cash flow measures as Adjusted Free Cash Flow. We believe this revised metric provides investors with a more representative view of the cash generated by our core operations by incorporating borrowings from non-trade floor plan facilities into operating cash flows to align non-trade inventory financing cash flows with the underlying operational capital structure, as well as normalizing for period-over-period variations. We believe this metric is useful to investors because it provides an additional means to evaluate cash flow trends in the business before considering non-operational or unique working capital financing adjustments.
+We define Adjusted Free Cash Flow as GAAP cash flows (used in) or provided by operating activities, adjusted for the net proceeds from (payments on) non-trade floor plan facilities, less purchases of property and equipment.
+Adjusted Free Cash Flow has limitations in that it does not represent the total increase or decrease in the cash balance for the period, nor does it represent residual cash flow available for discretionary expenditures. Therefore, Adjusted Free Cash Flow should be evaluated alongside our Unaudited Condensed Consolidated Statement of Cash Flows prepared in accordance with GAAP.
+A reconciliation of cash flows from operating activities to Adjusted Free Cash Flow is provided below:
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows (used in) provided by operating activities (GAAP) | $ | (41.7) | $ | 15.5
+Net proceeds on non-trade floor plan facilities | 58.4 | (5.3)
+Purchase of property and equipment | (2.5) | (5.0)
+Adjusted Free Cash Flow (non-GAAP) | $ | 14.2 | $ | 5.2
+Non-Vehicle Net Debt
+We define Non-Vehicle Net Debt as total principal of long-term debt, including current maturities, less unrestricted cash. Our restricted cash is principally related to vehicle floor plan debt and is therefore not part of this calculation. Vehicle floor plan debt and finance lease obligations are not included in this measure. We believe that Non-Vehicle Net Debt is useful to investors and analysts as a measure of our financial position. We use Non-Vehicle Net Debt to monitor and compare our financial position from period to period.
+A reconciliation of total long-term debt, including current maturities to Non-Vehicle Net Debt is provided below:
+As of September 30, 2026 | As of December 31, 2025
+Long-term debt, including current maturities (GAAP) | $ | 219.0 | $ | 207.6
+Add back: unamortized debt discount and issuance costs | 13.9 | 11.2
+Principal of long-term debt, including current maturities | 232.9 | 218.8
+Less: unrestricted cash | (29.2) | (29.5)
+Non-Vehicle Net Debt (non-GAAP) | $ | 203.7 | $ | 189.3
+11
+RideNow Group, Inc.
+Non-GAAP Measures
+(Unaudited)
+(amounts in millions)
+Adjusted SG&A
+We define Adjusted SG&A as SG&A adjusted to deduct transaction costs, certain litigation expenses not associated with our ongoing operations, management transition costs and certain other costs, as these charges and expenses are not considered a part of our core business operations and are not necessarily an indicator of the ongoing run rate of our SG&A. We use Adjusted SG&A to measure our progress toward achieving our goals. Adjusted SG&A is a non-GAAP financial measure and should not be used as a replacement for SG&A reported in compliance with GAAP. Adjusted SG&A has certain limitations in that it does not represent the total SG&A for the period. Therefore, we believe it is important to evaluate Adjusted SG&A along with SG&A and our consolidated statements of operations.
+A reconciliation of SG&A to Adjusted SG&A is below:
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+SG&A (GAAP) | $ | 59.6 | $ | 64.4 | $ | 186.7 | $ | 192.2
+% of Gross Profit | 91.0 | % | 84.7 | % | 84.1 | % | 84.6 | %
+Adjustments:
+Lease expense associated with favorable related party leases in excess of contractual lease payments | (0.2) | (0.3) | (0.6) | (0.8)
+Other costs(1) | (1.6) | (2.6) | (5.1) | (6.4)
+Transaction costs(2) | (0.1) | — | (0.1) | —
+Management transition costs | — | — | — | (1.1)
+Adjusted SG&A (non-GAAP) | $ | 57.7 | $ | 61.5 | $ | 180.9 | $ | 183.9
+% of Gross Profit(3) | 88.1 | % | 80.9 | % | 81.5 | % | 81.0 | %
+(1) Other costs, such as costs incurred for litigation not part of our normal, ongoing operations.
+(2) Represents costs recognized within SG&A for the debt refinancing in the third quarter of 2026.
+(3) Ratio of Adjusted SG&A to Gross Profit.
+12
