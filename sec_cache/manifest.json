@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-11T09:27:49+08:00",
+  "fetched_at": "2026-11-12T10:14:11+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-09",
-    "end": "2026-11-10",
+    "end": "2026-11-11",
     "first_run": false,
     "note": null
   },
@@ -14,107 +14,107 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 102 ms"
+      "detail": "HTTP 200, 60 KB in 94 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 50 ms"
+      "detail": "HTTP 200, 60 KB in 35 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 105 ms"
+      "detail": "HTTP 200, 60 KB in 19 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 63 ms"
+      "detail": "HTTP 200, 53 KB in 22 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 178 ms"
+      "detail": "HTTP 200, 148 KB in 39 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 90 ms"
+      "detail": "HTTP 200, 156 KB in 17 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 80 ms"
+      "detail": "HTTP 200, 153 KB in 16 ms"
     },
     {
-      "name": "HIVE Digital Technologies Ltd. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1720424/000106299326005856/index.json",
+      "name": "TTEC Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013880/000110465926124650/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 160 ms"
+      "detail": "HTTP 200, 1 KB in 72 ms"
     },
     {
-      "name": "HIVE Digital Technologies Ltd. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1720424/000106299326005856/exhibit99-1.htm",
+      "name": "TTEC Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013880/000110465926124650/tm2629265d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 253 KB in 107 ms"
+      "detail": "HTTP 200, 340 KB in 106 ms"
     },
     {
-      "name": "Dolphin Entertainment, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1282224/000107997326001451/index.json",
+      "name": "RESIDEO TECHNOLOGIES, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 84 ms"
+      "detail": "HTTP 200, 1 KB in 58 ms"
     },
     {
-      "name": "Dolphin Entertainment, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1282224/000107997326001451/ex99x1.htm",
+      "name": "RESIDEO TECHNOLOGIES, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1740332/000174033226000029/rezi-20261003prexhibit99.htm",
       "ok": true,
-      "detail": "HTTP 200, 165 KB in 177 ms"
+      "detail": "HTTP 200, 728 KB in 84 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 117 ms"
+      "detail": "HTTP 200, 3,174 KB in 31 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 128 ms"
+      "detail": "HTTP 200, 4,447 KB in 44 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 170 ms"
+      "detail": "HTTP 200, 2,745 KB in 37 ms"
     },
     {
-      "name": "HIVE Digital Technologies Ltd. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001720424.json",
+      "name": "TTEC Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013880.json",
       "ok": true,
-      "detail": "HTTP 200, 611 KB in 518 ms"
+      "detail": "HTTP 200, 3,915 KB in 640 ms"
     },
     {
-      "name": "Dolphin Entertainment, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001282224.json",
+      "name": "RESIDEO TECHNOLOGIES, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001740332.json",
       "ok": true,
-      "detail": "HTTP 200, 2,353 KB in 314 ms"
+      "detail": "HTTP 200, 1,640 KB in 21 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001013880.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001282224.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001720424.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001740332.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -122,9 +122,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1282224_000107997326001451_ex99x1.htm",
-    "www.sec.gov_Archives_edgar_data_1282224_000107997326001451_index.json",
-    "www.sec.gov_Archives_edgar_data_1720424_000106299326005856_exhibit99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1720424_000106299326005856_index.json"
+    "www.sec.gov_Archives_edgar_data_1013880_000110465926124650_index.json",
+    "www.sec.gov_Archives_edgar_data_1013880_000110465926124650_tm2629265d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1740332_000174033226000029_index.json",
+    "www.sec.gov_Archives_edgar_data_1740332_000174033226000029_rezi-20261003prexhibit99.htm"
   ]
 }
