@@ -1,137 +1,144 @@
 {
-  "fetched_at": "2026-11-13T10:06:19+08:00",
+  "fetched_at": "2026-11-14T09:25:29+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-12",
+    "end": "2026-11-13",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 17,
-  "answered": 17,
+  "requests": 18,
+  "answered": 18,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 49 ms"
+      "detail": "HTTP 200, 60 KB in 147 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 19 ms"
+      "detail": "HTTP 200, 60 KB in 69 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 56 KB in 18 ms"
+      "detail": "HTTP 200, 60 KB in 63 ms"
+    },
+    {
+      "name": "Earnings radar, page 4",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
+      "ok": true,
+      "detail": "HTTP 200, 55 KB in 59 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 56 ms"
+      "detail": "HTTP 200, 148 KB in 108 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 58 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 22 ms"
+      "detail": "HTTP 200, 154 KB in 63 ms"
     },
     {
-      "name": "SOLV Energy, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2065636/000119312526456918/index.json",
+      "name": "Star Equity Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000103/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 35 ms"
+      "detail": "HTTP 200, 2 KB in 77 ms"
     },
     {
-      "name": "SOLV Energy, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2065636/000119312526456918/d255358dex991.htm",
+      "name": "Star Equity Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000103/strr202609308kex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 166 KB in 48 ms"
+      "detail": "HTTP 200, 620 KB in 125 ms"
     },
     {
-      "name": "Andersen Group Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000008/index.json",
+      "name": "Benitec Biopharma Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 26 ms"
+      "detail": "HTTP 200, 1 KB in 136 ms"
     },
     {
-      "name": "Andersen Group Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2065708/000206570826000008/nov_12x2026xex991.htm",
+      "name": "Benitec Biopharma Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/bntc-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 309 KB in 42 ms"
+      "detail": "HTTP 200, 202 KB in 72 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 31 ms"
+      "detail": "HTTP 200, 3,174 KB in 82 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 28 ms"
+      "detail": "HTTP 200, 4,447 KB in 22 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 32 ms"
+      "detail": "HTTP 200, 2,745 KB in 42 ms"
     },
     {
-      "name": "SOLV Energy, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002065636.json",
+      "name": "Star Equity Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001210708.json",
       "ok": true,
-      "detail": "HTTP 200, 171 KB in 142 ms"
+      "detail": "HTTP 200, 2,989 KB in 1030 ms"
     },
     {
-      "name": "Andersen Group Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002065708.json",
+      "name": "Benitec Biopharma Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001808898.json",
       "ok": true,
-      "detail": "HTTP 200, 292 KB in 182 ms"
+      "detail": "HTTP 200, 858 KB in 19 ms"
     },
     {
       "name": "Tyra Biosciences, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001863127.json",
       "ok": true,
-      "detail": "HTTP 200, 731 KB in 199 ms"
+      "detail": "HTTP 200, 731 KB in 264 ms"
     },
     {
       "name": "RideNow Group, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596961.json",
       "ok": true,
-      "detail": "HTTP 200, 1,935 KB in 73 ms"
+      "detail": "HTTP 200, 1,935 KB in 61 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001210708.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001596961.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001808898.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001863127.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002065636.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002065708.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_2065636_000119312526456918_d255358dex991.htm",
-    "www.sec.gov_Archives_edgar_data_2065636_000119312526456918_index.json",
-    "www.sec.gov_Archives_edgar_data_2065708_000206570826000008_index.json",
-    "www.sec.gov_Archives_edgar_data_2065708_000206570826000008_nov_12x2026xex991.htm"
+    "efts.sec.gov_search-index_from300.json",
+    "www.sec.gov_Archives_edgar_data_1210708_000121070826000103_index.json",
+    "www.sec.gov_Archives_edgar_data_1210708_000121070826000103_strr202609308kex991.htm",
+    "www.sec.gov_Archives_edgar_data_1808898_000119312526459339_bntc-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1808898_000119312526459339_index.json"
   ]
 }
