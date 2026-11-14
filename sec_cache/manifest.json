@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:25:29+08:00",
+  "fetched_at": "2026-11-14T09:43:26+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,119 +16,119 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 147 ms"
+      "detail": "HTTP 200, 60 KB in 85 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 69 ms"
+      "detail": "HTTP 200, 60 KB in 14 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 63 ms"
+      "detail": "HTTP 200, 60 KB in 16 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 59 ms"
+      "detail": "HTTP 200, 55 KB in 16 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 108 ms"
+      "detail": "HTTP 200, 148 KB in 87 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 58 ms"
+      "detail": "HTTP 200, 156 KB in 16 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 63 ms"
+      "detail": "HTTP 200, 154 KB in 61 ms"
     },
     {
-      "name": "Star Equity Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000103/index.json",
+      "name": "ADI GLOBAL DISTRIBUTION INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2105139/000162828026073099/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 77 ms"
+      "detail": "HTTP 200, 1 KB in 200 ms"
     },
     {
-      "name": "Star Equity Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000103/strr202609308kex991.htm",
+      "name": "ADI GLOBAL DISTRIBUTION INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2105139/000162828026073099/adi-1032026erexhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 620 KB in 125 ms"
+      "detail": "HTTP 200, 404 KB in 204 ms"
     },
     {
-      "name": "Benitec Biopharma Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/index.json",
+      "name": "Cardiff Oncology, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1213037/000119312526458500/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 136 ms"
+      "detail": "HTTP 200, 1 KB in 61 ms"
     },
     {
-      "name": "Benitec Biopharma Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1808898/000119312526459339/bntc-ex99_1.htm",
+      "name": "Cardiff Oncology, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1213037/000119312526458500/crdf-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 202 KB in 72 ms"
+      "detail": "HTTP 200, 250 KB in 224 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 82 ms"
+      "detail": "HTTP 200, 3,174 KB in 22 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 22 ms"
+      "detail": "HTTP 200, 4,447 KB in 47 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 42 ms"
+      "detail": "HTTP 200, 2,745 KB in 20 ms"
     },
     {
-      "name": "Star Equity Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001210708.json",
+      "name": "ADI GLOBAL DISTRIBUTION INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002105139.json",
       "ok": true,
-      "detail": "HTTP 200, 2,989 KB in 1030 ms"
+      "detail": "HTTP 200, 116 KB in 71 ms"
     },
     {
-      "name": "Benitec Biopharma Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001808898.json",
+      "name": "Cardiff Oncology, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001213037.json",
       "ok": true,
-      "detail": "HTTP 200, 858 KB in 19 ms"
+      "detail": "HTTP 200, 2,088 KB in 58 ms"
     },
     {
       "name": "Tyra Biosciences, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001863127.json",
       "ok": true,
-      "detail": "HTTP 200, 731 KB in 264 ms"
+      "detail": "HTTP 200, 731 KB in 169 ms"
     },
     {
       "name": "RideNow Group, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596961.json",
       "ok": true,
-      "detail": "HTTP 200, 1,935 KB in 61 ms"
+      "detail": "HTTP 200, 1,935 KB in 238 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001210708.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001213037.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001596961.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001808898.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001863127.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002105139.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1210708_000121070826000103_index.json",
-    "www.sec.gov_Archives_edgar_data_1210708_000121070826000103_strr202609308kex991.htm",
-    "www.sec.gov_Archives_edgar_data_1808898_000119312526459339_bntc-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1808898_000119312526459339_index.json"
+    "www.sec.gov_Archives_edgar_data_1213037_000119312526458500_crdf-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1213037_000119312526458500_index.json",
+    "www.sec.gov_Archives_edgar_data_2105139_000162828026073099_adi-1032026erexhibit991.htm",
+    "www.sec.gov_Archives_edgar_data_2105139_000162828026073099_index.json"
   ]
 }
