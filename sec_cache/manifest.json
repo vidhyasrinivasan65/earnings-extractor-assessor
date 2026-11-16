@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-15T09:16:58+08:00",
+  "fetched_at": "2026-11-16T08:59:21+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
@@ -14,121 +14,121 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 368 ms"
+      "detail": "HTTP 200, 60 KB in 146 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 269 ms"
+      "detail": "HTTP 200, 60 KB in 57 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 274 ms"
+      "detail": "HTTP 200, 60 KB in 98 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 155 ms"
+      "detail": "HTTP 200, 55 KB in 98 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 44 ms"
+      "detail": "HTTP 200, 148 KB in 170 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 17 ms"
+      "detail": "HTTP 200, 156 KB in 74 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 45 ms"
+      "detail": "HTTP 200, 154 KB in 59 ms"
     },
     {
-      "name": "KinderCare Learning Companies, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1873529/000119312526458438/index.json",
+      "name": "AIRO Group Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 96 ms"
+      "detail": "HTTP 200, 1 KB in 245 ms"
     },
     {
-      "name": "KinderCare Learning Companies, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1873529/000119312526458438/klc-ex99_1.htm",
+      "name": "AIRO Group Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 707 KB in 197 ms"
+      "detail": "HTTP 200, 118 KB in 269 ms"
     },
     {
-      "name": "SELLAS Life Sciences Group, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/index.json",
+      "name": "TMC the metals Co Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1798562/000110465926126230/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 282 ms"
+      "detail": "HTTP 200, 1 KB in 77 ms"
     },
     {
-      "name": "SELLAS Life Sciences Group, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/sls-202611128xkexhibit991.htm",
+      "name": "TMC the metals Co Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1798562/000110465926126230/tm2629328d2_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 77 KB in 58 ms"
+      "detail": "HTTP 200, 250 KB in 284 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 30 ms"
+      "detail": "HTTP 200, 3,174 KB in 180 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 27 ms"
+      "detail": "HTTP 200, 4,447 KB in 183 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 32 ms"
+      "detail": "HTTP 200, 2,745 KB in 73 ms"
     },
     {
-      "name": "KinderCare Learning Companies, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001873529.json",
+      "name": "AIRO Group Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001927958.json",
       "ok": true,
-      "detail": "HTTP 200, 585 KB in 44 ms"
+      "detail": "HTTP 200, 393 KB in 139 ms"
     },
     {
-      "name": "SELLAS Life Sciences Group, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001390478.json",
+      "name": "TMC the metals Co Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001798562.json",
       "ok": true,
-      "detail": "HTTP 200, 2,339 KB in 183 ms"
+      "detail": "HTTP 200, 667 KB in 136 ms"
     },
     {
       "name": "Tyra Biosciences, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001863127.json",
       "ok": true,
-      "detail": "HTTP 200, 731 KB in 130 ms"
+      "detail": "HTTP 200, 731 KB in 243 ms"
     },
     {
       "name": "RideNow Group, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596961.json",
       "ok": true,
-      "detail": "HTTP 200, 1,935 KB in 52 ms"
+      "detail": "HTTP 200, 1,935 KB in 253 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001390478.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001596961.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001798562.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001863127.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001873529.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001927958.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1390478_000139047826000021_index.json",
-    "www.sec.gov_Archives_edgar_data_1390478_000139047826000021_sls-202611128xkexhibit991.htm",
-    "www.sec.gov_Archives_edgar_data_1873529_000119312526458438_index.json",
-    "www.sec.gov_Archives_edgar_data_1873529_000119312526458438_klc-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1798562_000110465926126230_index.json",
+    "www.sec.gov_Archives_edgar_data_1798562_000110465926126230_tm2629328d2_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_index.json"
   ]
 }
