@@ -2708,5 +2708,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:37:40+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 15,
+      "mismatch": 0,
+      "cannot_check": 1
+    },
+    "companies": [
+      {
+        "cik": "1863127",
+        "company": "Tyra Biosciences, Inc.",
+        "accession": "0001193125-26-454474",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1596961",
+        "company": "RideNow Group, Inc.",
+        "accession": "0001628280-26-072738",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 2,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "744825",
+        "company": "AMERICAN SHARED HOSPITAL SERVICES",
+        "accession": "0001437749-26-036445",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "2026478",
+        "company": "Newsmax Inc.",
+        "accession": "0002026478-26-000070",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 15 figures confirmed, 0 mismatches, 1 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:07:55+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 487,
+      "saved_for_run": 487,
+      "match": true
+    },
+    "offline": false
   }
 ]
