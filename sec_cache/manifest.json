@@ -1,172 +1,116 @@
 {
-  "fetched_at": "2026-11-17T12:10:04+08:00",
+  "fetched_at": "2026-11-18T10:52:21+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-11",
-    "end": "2026-11-16",
+    "start": "2026-11-16",
+    "end": "2026-11-17",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 22,
-  "answered": 22,
+  "requests": 14,
+  "answered": 14,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 226 ms"
+      "detail": "HTTP 200, 60 KB in 828 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 68 ms"
-    },
-    {
-      "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=200",
-      "ok": true,
-      "detail": "HTTP 200, 59 KB in 46 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 42 ms"
-    },
-    {
-      "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=400",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 39 ms"
-    },
-    {
-      "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-16&from=500",
-      "ok": true,
-      "detail": "HTTP 200, 15 KB in 40 ms"
+      "detail": "HTTP 200, 44 KB in 1073 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 162 ms"
+      "detail": "HTTP 200, 148 KB in 159 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 50 ms"
+      "detail": "HTTP 200, 157 KB in 52 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 87 ms"
+      "detail": "HTTP 200, 156 KB in 112 ms"
     },
     {
-      "name": "AMERICAN SHARED HOSPITAL SERVICES filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/744825/000143774926036445/index.json",
+      "name": "GLADSTONE CAPITAL CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1143513/000119312526465633/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 422 ms"
+      "detail": "HTTP 200, 1 KB in 86 ms"
     },
     {
-      "name": "AMERICAN SHARED HOSPITAL SERVICES filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/744825/000143774926036445/0001437749-26-036445-index.htm",
+      "name": "GLADSTONE CAPITAL CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1143513/000119312526465633/d175768dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 246 ms"
+      "detail": "HTTP 200, 50 KB in 40 ms"
     },
     {
-      "name": "AMERICAN SHARED HOSPITAL SERVICES press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/744825/000143774926036445/ex_1043572.htm",
+      "name": "Oaktree Specialty Lending Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/index.json",
       "ok": true,
-      "detail": "HTTP 200, 136 KB in 242 ms"
+      "detail": "HTTP 200, 3 KB in 70 ms"
     },
     {
-      "name": "Newsmax Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/index.json",
+      "name": "Oaktree Specialty Lending Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/d163826dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 108 ms"
-    },
-    {
-      "name": "Newsmax Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/0002026478-26-000070-index.htm",
-      "ok": true,
-      "detail": "HTTP 200, 16 KB in 77 ms"
-    },
-    {
-      "name": "Newsmax Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/nmax_q32026earningsrelease.htm",
-      "ok": true,
-      "detail": "HTTP 200, 248 KB in 69 ms"
+      "detail": "HTTP 200, 397 KB in 65 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 227 ms"
+      "detail": "HTTP 200, 3,174 KB in 104 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 96 ms"
+      "detail": "HTTP 200, 4,447 KB in 82 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 308 ms"
+      "detail": "HTTP 200, 2,745 KB in 172 ms"
     },
     {
-      "name": "AMERICAN SHARED HOSPITAL SERVICES company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000744825.json",
+      "name": "GLADSTONE CAPITAL CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001143513.json",
       "ok": true,
-      "detail": "HTTP 200, 2,583 KB in 355 ms"
+      "detail": "HTTP 200, 856 KB in 152 ms"
     },
     {
-      "name": "Newsmax Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002026478.json",
+      "name": "Oaktree Specialty Lending Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001414932.json",
       "ok": true,
-      "detail": "HTTP 200, 451 KB in 244 ms"
-    },
-    {
-      "name": "Tyra Biosciences, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001863127.json",
-      "ok": true,
-      "detail": "HTTP 200, 731 KB in 230 ms"
-    },
-    {
-      "name": "RideNow Group, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001596961.json",
-      "ok": true,
-      "detail": "HTTP 200, 1,935 KB in 346 ms"
+      "detail": "HTTP 200, 867 KB in 72 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000744825.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001143513.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001596961.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001414932.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001863127.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002026478.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
-    "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "efts.sec.gov_search-index_from400.json",
-    "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_2026478_000202647826000070_0002026478-26-000070-index.htm",
-    "www.sec.gov_Archives_edgar_data_2026478_000202647826000070_index.json",
-    "www.sec.gov_Archives_edgar_data_2026478_000202647826000070_nmax_q32026earningsrelease.htm",
-    "www.sec.gov_Archives_edgar_data_744825_000143774926036445_0001437749-26-036445-index.htm",
-    "www.sec.gov_Archives_edgar_data_744825_000143774926036445_ex_1043572.htm",
-    "www.sec.gov_Archives_edgar_data_744825_000143774926036445_index.json"
+    "www.sec.gov_Archives_edgar_data_1143513_000119312526465633_d175768dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1143513_000119312526465633_index.json",
+    "www.sec.gov_Archives_edgar_data_1414932_000119312526464682_d163826dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1414932_000119312526464682_index.json"
   ]
 }
