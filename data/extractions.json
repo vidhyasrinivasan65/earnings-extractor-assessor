@@ -939,5 +939,113 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/nmax_q32026earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/0002026478-26-000070-index.htm",
     "saved_at": "2026-11-18T06:07:55+08:00"
+  },
+  {
+    "cik": "1143513",
+    "company": "GLADSTONE CAPITAL CORP",
+    "accession": "0001193125-26-465633",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 24.58,
+        "unit": "USD millions",
+        "quote": "Total investment income | $ | 24,580"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -2.187,
+        "unit": "USD millions",
+        "quote": "Net increase (decrease) in net assets from operations | (2,187"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 closed with a $956 million portfolio, an 11.7% rise in total investment income and $2.00 of net investment income per share.",
+        "quote": "Gladstone Capital closed fiscal 2026 with a $956 million investment portfolio, an 11.7% increase in total investment income and $2.00 in net investment income per share."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says fourth-quarter unrealized depreciation was concentrated in two non-earning investments and several previously appreciated equity positions.",
+        "quote": "Fourth-quarter unrealized depreciation was concentrated in two existing non-earning investments and several previously appreciated equity positions."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the priority for fiscal 2027 is to turn portfolio growth into higher earnings.",
+        "quote": "Our priority for fiscal 2027 is to translate portfolio growth into higher earnings and deliver strong economic returns for our shareholders."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses portfolio and income growth but also names the quarter's unrealized depreciation and says each situation is being managed."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1143513-0001193125-26-465633.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1143513/000119312526465633/d175768dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1143513/000119312526465633/0001193125-26-465633-index.htm",
+    "saved_at": "2026-11-19T06:08:24+08:00"
+  },
+  {
+    "cik": "1414932",
+    "company": "Oaktree Specialty Lending Corp",
+    "accession": "0001193125-26-464682",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 68.211,
+        "unit": "USD millions",
+        "quote": "Total investment income | 68,211 | 69,433 | 77,315 | 283,125 | 316,801"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 22.626,
+        "unit": "USD millions",
+        "quote": "Net increase (decrease) in net assets resulting from operations | $ | 22,626"
+      },
+      "diluted_eps": {
+        "value": 0.26,
+        "unit": "USD per share",
+        "quote": "Earnings (loss) per common share — basic and diluted | $ | 0.26"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made progress in fiscal 2026 on cutting non-accruals, diversifying the portfolio and keeping a flexible balance sheet.",
+        "quote": "During fiscal year 2026, we made progress on our strategic priorities: reducing non-accrual investments, further diversifying our portfolio and maintaining a flexible balance sheet,"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the September bond issuance strengthened the capital structure and spread out debt maturities.",
+        "quote": "Our September bond issuance strengthened our capital structure and supports a well-staggered debt maturity profile, providing flexibility to selectively deploy into opportunities that we believe offer attractive risk-adjusted returns."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The release says the quarterly fall in total investment income came mainly from a lower average portfolio balance.",
+        "quote": "The decrease for the quarter was primarily driven by a lower average portfolio balance."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO describes progress and a stronger capital structure, while the highlights explain lower income by a smaller portfolio and lower rates."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1414932-0001193125-26-464682.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/d163826dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/0001193125-26-464682-index.htm",
+    "saved_at": "2026-11-19T06:08:24+08:00"
   }
 ]
