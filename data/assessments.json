@@ -5231,5 +5231,421 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-18T06:37:40+08:00"
+  },
+  {
+    "accession": "0001193125-26-465633",
+    "cik": "1143513",
+    "company": "GLADSTONE CAPITAL CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 24.58 (24,580 thousand), but the SEC holds no filed revenue figure for the quarter under the usual tags; a BDC tags investment income another way."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release, a BDC's, gives no operating income line."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-K (full year less nine months, filed 2026-11-17): -2.187 against -2.187; the quote holds (2,187) as a decrease."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty, although the release gives the net decrease to common stockholders as $0.10 per share. EPS for the last quarter of the year is not filed on its own."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Net income (-2.187) is confirmed against the 10-K. The revenue quote is in the release and holds 24.58; its filed check is not possible, as the SEC holds no quarterly revenue tag for it."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Revenue and net income are there. Operating income is not in the release, which is not a fault, but the per-share result (a decrease of $0.10 per share) is given and left empty. No guidance is given."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM for income and the quarter's loss, but the analyst must open the release for the -$0.10 per share and for net investment income of $0.49 per share."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "24.58 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "-2.187 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "-2.187 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-17)",
+        "filed_value": -2.187,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's own table: total investment income 99,578 against 89,122 for the year, up 11.7%; net investment income per share $2.00. The $956 million portfolio matches investments of 955,802 thousand."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The fundamentals cannot test where the depreciation sat. They do show its weight: net income -2.187 against 13.27 last quarter and 13.971 a year ago; the release gives net unrealized depreciation of 13,615 thousand."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "An outlook, consistent with the trend: investments grew to 955,802 from 859,124 thousand and income rose 11.7%, but net investment income per share fell to $2.00 from $2.02, so growth has not yet reached earnings."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits: total investment income rose 11.7% for the year and 0.3% on the quarter, but the quarter turned to a net loss of -2.187 from 13.27 the previous quarter."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 24.58,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -2.187,
+        "this_quarter_from": "10-K",
+        "year_ago": 13.971,
+        "change_year": null,
+        "previous_quarter": 13.27,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -8.89747762408462,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 closed with a $956 million portfolio, an 11.7% rise in total investment income and $2.00 of net investment income per share.",
+        "quote": "Gladstone Capital closed fiscal 2026 with a $956 million investment portfolio, an 11.7% increase in total investment income and $2.00 in net investment income per share.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says fourth-quarter unrealized depreciation was concentrated in two non-earning investments and several previously appreciated equity positions.",
+        "quote": "Fourth-quarter unrealized depreciation was concentrated in two existing non-earning investments and several previously appreciated equity positions.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the priority for fiscal 2027 is to turn portfolio growth into higher earnings.",
+        "quote": "Our priority for fiscal 2027 is to translate portfolio growth into higher earnings and deliver strong economic returns for our shareholders.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses portfolio and income growth but also names the quarter's unrealized depreciation and says each situation is being managed."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-19T06:38:24+08:00"
+  },
+  {
+    "accession": "0001193125-26-464682",
+    "cik": "1414932",
+    "company": "Oaktree Specialty Lending Corp",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 68.211 (68,211 thousand), but the SEC holds no filed revenue figure for the quarter under the usual tags; a BDC tags investment income another way."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release, a BDC's, gives no operating income line."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-K (full year less nine months, filed 2026-11-17): 22.626 against 22.626, and the quote holds 22,626 thousand."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 0.26, but EPS for the last quarter of the fiscal year is not filed on its own, so there is no filed figure."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Net income (22.626) is confirmed against the 10-K. The revenue (68.211) and EPS (0.26) quotes are in the release and hold their numbers; they cannot be filed-checked, as no quarterly figure is filed."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Revenue, net income and EPS are there. Operating income is not in the release, which is not a fault. The release gives no guidance."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM as it stands, but the extract does not give net investment income of $0.34 per share against $0.37, the figure a BDC analyst needs, so the release must be opened."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "68.211 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "22.626 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "22.626 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-17)",
+        "filed_value": 22.626,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "0.26 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables, not the fundamentals: non-accruals fell to 4.0% of debt at cost from 6.5% a year ago, and to 6 investments from 10. Diversification and the balance sheet cannot be tested."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "A claim about the capital structure and debt maturities. The fundamentals (revenue, profit, EPS) cannot test it."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "The fall is borne out by the release's table: total investment income 68,211 against 69,433 thousand last quarter, down 1.8%. The cause, a lower average portfolio balance, cannot be tested on the fundamentals."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits: net income fell 7.9% on a year ago and 26.9% on the quarter, EPS to 0.26 from 0.35, while non-accruals fell to 4.0% of debt at cost from 6.5%."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 68.211,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 22.626,
+        "this_quarter_from": "10-K",
+        "year_ago": 24.578,
+        "change_year": -7.9,
+        "previous_quarter": 30.94,
+        "change_quarter": -26.9
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.26,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 0.35,
+        "change_quarter": -25.7
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 33.17060298192374,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made progress in fiscal 2026 on cutting non-accruals, diversifying the portfolio and keeping a flexible balance sheet.",
+        "quote": "During fiscal year 2026, we made progress on our strategic priorities: reducing non-accrual investments, further diversifying our portfolio and maintaining a flexible balance sheet,",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the September bond issuance strengthened the capital structure and spread out debt maturities.",
+        "quote": "Our September bond issuance strengthened our capital structure and supports a well-staggered debt maturity profile, providing flexibility to selectively deploy into opportunities that we believe offer attractive risk-adjusted returns.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The release says the quarterly fall in total investment income came mainly from a lower average portfolio balance.",
+        "quote": "The decrease for the quarter was primarily driven by a lower average portfolio balance.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO describes progress and a stronger capital structure, while the highlights explain lower income by a smaller portfolio and lower rates."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-19T06:38:24+08:00"
   }
 ]

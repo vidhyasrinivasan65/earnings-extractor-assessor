@@ -2878,5 +2878,69 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-19T06:38:24+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-19-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 2,
+      "total": 2,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 2,
+      "mismatch": 0,
+      "cannot_check": 6
+    },
+    "companies": [
+      {
+        "cik": "1143513",
+        "company": "GLADSTONE CAPITAL CORP",
+        "accession": "0001193125-26-465633",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 0,
+        "cannot_check": 3,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1414932",
+        "company": "Oaktree Specialty Lending Corp",
+        "accession": "0001193125-26-464682",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 0,
+        "cannot_check": 3,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 2 figures confirmed, 0 mismatches, 6 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-19T06:08:24+08:00",
+      "watch_brief": "briefs/2026-11-19-watch.md",
+      "brief_says": 42,
+      "saved_for_run": 42,
+      "match": true
+    },
+    "offline": false
   }
 ]
