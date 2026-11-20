@@ -1166,5 +1166,135 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
     "saved_at": "2026-11-20T06:08:44+08:00"
+  },
+  {
+    "cik": "1838987",
+    "company": "SunPower Inc.",
+    "accession": "0001213900-26-122000",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 65.09,
+        "unit": "USD millions",
+        "quote": "Revenue | 65,090"
+      },
+      "operating_income": {
+        "value": -51.978,
+        "unit": "USD millions",
+        "quote": "GAAP operating income (loss) from continuing operations | (19,196 | ) | (23,456 | ) | (51,978 | )"
+      },
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "SunPower targets fourth-quarter 2026 revenue of $61.8 million, below the third quarter's $65.1 million.",
+      "quote": "we are targeting a Q4’26 revenue of $61.8 million, five percentage points below our Q3’26 performance of $65.1 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter revenue rose by $10.2 million over the second quarter and the non-GAAP operating loss fell to $4.9 million.",
+        "quote": "we are very pleased to report Q3’26 revenue of $65.1 million, an increase of $10.2 million over Q2’26, which led to a 3.6x reduction in our operating losses to $4.9 million vs. Q2’26."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says headcount fell from 705 to 640, raising annual revenue per employee from $369,000 to $406,000.",
+        "quote": "We have taken another step towards profitability by decreasing our headcount to 640 from 705 in Q3’26, driving our annual revenue per employee from $369,000 to $406,000"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the fourth quarter will be the first full quarter with the full cost cuts in effect.",
+        "quote": "The Q4’26 quarter will be the first full quarter in which the full cost cutting is effective."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the company's accounting has fallen short and Deloitte has been retained to take it over.",
+        "quote": "SunPower’s accounting has never met the zero-defect standards I enjoyed as the CEO of a Silicon Valley company, and we have now retained Deloitte"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is pleased with revenue and the smaller loss, but admits accounting problems and two poor earlier quarters."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1838987-0001213900-26-122000.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/ea031290001ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/0001213900-26-122000-index.htm",
+    "saved_at": "2026-11-21T06:08:19+08:00"
+  },
+  {
+    "cik": "1718227",
+    "company": "Construction Partners, Inc.",
+    "accession": "0001628280-26-074957",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1096.029,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 1,096,029"
+      },
+      "operating_income": {
+        "value": 103.806,
+        "unit": "USD millions",
+        "quote": "Operating income | 103,806"
+      },
+      "net_income": {
+        "value": 56.208,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 56,208"
+      },
+      "diluted_eps": {
+        "value": 1.0,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.00"
+      }
+    },
+    "guidance": {
+      "text": "The company expects fiscal 2027 revenue of $4.175 billion to $4.275 billion.",
+      "quote": "Revenue in the range of $4.175 billion to $4.275 billion"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Sunbelt demand supported 7% organic revenue growth for fiscal 2026.",
+        "quote": "Strong infrastructure demand and active commercial construction across the Sunbelt supported 7% organic revenue growth for the year."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the fiscal 2027 outlook is for about 15% growth in both revenue and Adjusted EBITDA.",
+        "quote": "These strong fundamentals support our fiscal 2027 outlook for approximately 15% growth in both revenue and Adjusted EBITDA."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter revenue was a record and the backlog supports the 15% revenue growth guidance.",
+        "quote": "Following record fourth quarter revenue, our backlog entering fiscal 2027 strongly supports our guidance of 15% revenue growth."
+      },
+      {
+        "id": "M4",
+        "topic": "margins",
+        "claim": "The CEO sees acquisition integration and better recovery of diesel costs improving margins after the first half of fiscal 2027.",
+        "quote": "Looking beyond the first half of fiscal 2027, we see two primary catalysts for meaningful margin improvement: the continued integration of our fiscal 2026 acquisitions and improved recovery of elevated diesel fuel costs through project pricing."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and Executive Chairman describe a year of significant growth and say they are well positioned and highly confident."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1718227-0001628280-26-074957.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1718227/000162828026074957/exhibit991_earningspressre.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1718227/000162828026074957/0001628280-26-074957-index.htm",
+    "saved_at": "2026-11-21T06:08:19+08:00"
   }
 ]
