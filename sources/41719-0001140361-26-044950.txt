@@ -1,0 +1,177 @@
+Company: Magnera Corp (CIK 41719)
+Accession: 0001140361-26-044950
+Results released: 2026-11-20
+Press release: https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm
+Saved: 2026-11-22T06:08:09+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ef20086010_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+Magnera Reports Fourth Quarter and Fiscal Year Results
+Fourth Quarter Highlights
+• | GAAP: Net sales of $851 million; Operating loss of $90 million (includes $106 million of goodwill and other impairment)
+• | Non-GAAP: Adjusted EBITDA of $97 million
+• | Record cash flow with cash from operations of $99 million
+• | $57 million of debt repayments
+Fiscal Year Highlights
+• | GAAP: Net sales of $3.3 billion; Operating loss of $37 million (includes $106 million of goodwill and other impairment)
+• | Non-GAAP: Adjusted EBITDA of $378 million
+• | Free cash flow of $115 million represents a yield of over 25% as of year-end
+• | $122 million of debt repayments
+Curt Begle, Magnera’s CEO, commented: “We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year and delivered strong overall results for the full year surpassing prior year by nearly 4%. Through the successful implementation of Project CORE, ongoing realization of synergies, and a relentless focus on operational excellence, we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow. Our teams delivered these results while navigating inflationary pressures and dynamic demand conditions across our end markets, demonstrating the resilience and flexibility of our operating model. As we enter fiscal 2027, we remain focused on driving profitable growth and advancing our productivity and cost initiatives. While we remain mindful of the broader macroeconomic environment, we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation.”
+Key Financials
+September Quarter | Fiscal Year
+GAAP results | 2026 | 2025 | 2026 | 2025
+Net sales | $ 851 | $ 839 | $ 3,296 | $ 3,204
+Operating income (loss) | (90) | 10 | (37) | 5
+September Quarter | Reported | Comparable(1) | Fiscal Year | Reported | Comparable(1)
+Adjusted non-GAAP results | 2026 | 2025 | % | % | 2026 | 2025 | % | %
+Net sales | $851 | $839 | 1% | 1% | $3,296 | $3,204 | 3% | (4%)
+Adjusted EBITDA (1) | 97 | 90 | 8% | 8% | 378 | 354 | 7% | 4%
+(1) | Adjusted non-GAAP results exclude items not considered to be ongoing operations. In addition, comparable change % normalizes the impacts of foreign currency and the recent M&A activity. Further details related to non-GAAP measures and reconciliations can be found under “Reconciliation of Non-GAAP Financial Measures and Estimates” section or in reconciliation tables in this release. Dollars in millions
+Page | 1
+Financial Results – Fourth Quarter 2026
+Consolidated Overview
+The net sales increase included a $43 million increase in selling prices primarily due to the pass-through of higher raw material costs partially offset by a 4% organic volume decline. The volume decline was primarily attributed to softer healthcare demand in Americas and continued general market softness in Europe.
+The Adjusted EBITDA was up 8% primarily as a result of favorable price cost spread of $9 million.
+Americas
+The net sales increase included a $19 million increase in selling prices primarily due to the pass-through of higher raw material costs partially offset by a 2% organic volume decline.
+The Adjusted EBITDA improvement was primarily a result of favorable price cost spread of $4 million due to the realized benefits from project CORE and merger synergies.
+Rest of World
+The net sales were essentially flat as a $24 million increase in selling prices due to the pass-through of higher raw material costs was offset by a 6% organic volume decline.
+The adjusted EBITDA improvement was primarily a result of favorable price cost spread of $5 million due to the realized benefits from project CORE and synergies partly offset by the negative impact from lower volumes.
+Free Cash Flow and Net Debt - Fiscal Year 2026
+Magnera is committed to strengthening its credit metrics by paying down debt in the near term.
+(in millions) | Fiscal Year
+Cash flow from operating activities | $ 178
+Additions to property, plant and equipment, net | (63)
+Free cash flow (1) | $ 115
+Free cash flow yield (1) | > 25%
+(1)FCF yield as of 9/26 close of business market cap. Further details related to non-GAAP measures and reconciliations can be found under “Reconciliation of Non-GAAP Financial Measures and Estimates” section or in reconciliation tables in this release.
+Fiscal Year 2027 Guidance
+• | Adjusted EBITDA of $390 - $410 million
+• | Free cash flow of $110 - $130 million; cash flow from operations of $195 - $215 million
+Investor Conference Call
+The Company will host a conference call tomorrow, November 19, 2026, at 10:00 AM U.S. Eastern Time to discuss the Fourth Quarter and Fiscal Year 2026 results. The webcast can be accessed here. A replay of the webcast will be available via the same link on the Company’s website after the completion of the call.
+By Telephone
+Participants may register for the call here now or any time up to and during the time of the call and will immediately receive the dial-in number and a unique pin to access the call. While you may register at any time up to and during the time of the call, you are encouraged to join the call 15 minutes prior to the start of the event.
+Page | 2
+About Magnera
+Magnera Corporation (NYSE: MAGN) serves 1,000+ customers worldwide, offering a wide range of material solutions, including components for absorbent hygiene products, protective apparel, wipes, specialty building and construction products, and products serving the food and beverage industry. Operating across 44 global facilities, Magnera is supported by over 8,000+ employees. Magnera’s purpose is to better the world with new possibilities made real. For more than 160 years, the Company has delivered the material solutions their partners need to thrive. Through economic upheaval, global pandemics and changing end-user needs, we have consistently found ways to solve problems and exceed expectations. The distinct scale and comprehensive portfolio of products brings customers more materials and choices. Magnera builds personal partnerships that withstand an ever-changing world.
+Visit Magnera.com for more information and follow @MagneraCorporation on social platforms.
+Non-GAAP Financial Measures and Estimates
+This press release includes non-GAAP financial measures including, but not limited to, Adjusted EBITDA, free cash flow, and comparable basis net sales and adjusted EBITDA. A reconciliation of these non-GAAP financial measures to comparable measures determined in accordance with accounting principles generally accepted in the United States of America (GAAP) is set forth at the end of this press release. Information reconciling forward-looking adjusted EBITDA and adjusted free cash flow are not provided because such information is not available without unreasonable effort due to high variability, complexity, and low visibility with respect to certain items, including debt refinancing activity or other non-comparable items. These items are uncertain, depend on various factors, and could be material to our results computed in accordance with U.S. GAAP.
+Forward Looking Statements
+This document contains certain statements that are “forward-looking” statements within the meaning of the federal securities laws and are presented pursuant to the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Such “forward-looking” statements include, but are not limited to, statements with respect to our future financial performance and condition, results of operations and business, our expectations or beliefs concerning future events, plans, objectives, expectations and intentions, and other statements that are not historical facts. These statements may contain words such as “believes,” “expects,” “may,” “will,” “should,” “would,” “could,” “seeks,” “approximately,” “intends,” “plans,” “estimates,” “projects,” “outlook,” “guidance,” “anticipates” or “looking forward” or similar expressions. In addition, we, through our senior management, from time to time make forward-looking public statements concerning our expected future operations and performance and other developments. These forward-looking statements are based upon the current beliefs and expectations of the management of Magnera and are subject to risks and uncertainties that may change at any time. Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements. Although it is not possible to identify all of these risks and uncertainties, they include, among others, the following: global economic conditions; inflation; the cost and availability of raw materials and energy; disruption of our supply chain; the adverse impact of weather events on our facilities, inventory and suppliers, as well as adverse effects on our customers, suppliers and other business partners; the effect of competition on our business; our inability to integrate future acquired companies or to realize expected operating synergies; synergies expected to be achieved in connection with our business combination with a subsidiary of Berry Global Group, Inc.; our inability to retain our officers and employees or the occurrence of labor disputes; disruption of our information technology systems, including as a result of a cyber breach; risks associated with operating internationally, including fluctuating exchange rates, tariffs, differing tax laws and regulation; litigation and regulatory investigations; and disputes related to intellectual property used in our business. Additional information regarding these risks and uncertainties and other risks applicable to our business are described in additional detail in our reports filed with the Securities and Exchange Commission (the “SEC”), including our Annual Report on Form 10-K for the fiscal year ended September 26, 2026, and other filings that we make with the SEC. These risk factors may not contain all of the material factors that are important to you. New factors may emerge from time to time, and it is not possible to either predict new factors or assess the potential effect of any such new factors. Accordingly, readers should not place undue reliance on those statements. All forward-looking statements are made as of the date hereof, and we undertake no obligation to publicly update or revise any forward-looking statement as a result of new information, future events or otherwise, except as otherwise required by law.
+Page | 3
+Consolidated and Combined Statements of Operations (unaudited)
+Quarterly Period Ended | Fiscal Year Ended
+(in millions of dollars) | September 26, 2026 | September 27, 2025 | September 26, 2026 | September 27, 2025
+Net sales | $ | 851 | $ | 839 | $ | 3,296 | $ | 3,204
+Cost of goods sold | 750 | 751 | 2,891 | 2,867
+Selling, general and administrative | 47 | 49 | 203 | 193
+Amortization of intangibles | 12 | 9 | 46 | 50
+Restructuring and other | 26 | 20 | 87 | 89
+Goodwill and other impairment | 106 | - | 106 | -
+Operating income (loss) | (90 | ) | 10 | (37 | ) | 5
+Other expense (income) | (21 | ) | 4 | (16 | ) | 30
+Interest net expense | 38 | 39 | 150 | 141
+Income (loss) before income taxes | (107 | ) | (33 | ) | (171 | ) | (166 | )
+Income tax (benefit) expense | 34 | 7 | 42 | (7 | )
+Net income (loss) | $ | (141 | ) | $ | (40 | ) | $ | (213 | ) | $ | (159 | )
+Condensed Consolidated and Combined Statements of Cash Flows (unaudited)
+Fiscal Year
+(in millions of dollars) | 2026 | 2025
+Net cash from operating activities | 178 | 103
+Cash flows from investing activities:
+Additions to property, plant, and equipment, net | (63 | ) | (67 | )
+Cash acquired from GLT acquisition | - | 37
+Other investing activities | (3 | ) | 22
+Net cash from (used in) investing activities | (66 | ) | (8 | )
+Cash flows from financing activities:
+Proceeds from long-term borrowings | - | 1,556
+Repayments on long-term borrowings | (122 | ) | (484 | )
+Transfers from (to) Berry, net | - | 34
+Cash distribution to Berry | - | (1,111 | )
+Debt fees and other, net | (1 | ) | (16 | )
+Net cash from (used in) financing activities | (123 | ) | (21 | )
+Effect of currency translation on cash | - | 1
+Net change in cash and cash equivalents | (11 | ) | 75
+Cash and cash equivalents at beginning of period | 305 | 230
+Cash and cash equivalents at end of period | $ | 294 | $ | 305
+Condensed Consolidated Balance Sheets (unaudited)
+(in millions of dollars) | September 26, 2026 | September 27, 2025
+Cash and cash equivalents | $ | 294 | $ | 305
+Accounts receivable | 502 | 522
+Inventories | 499 | 474
+Other current assets | 67 | 122
+Property, plant, and equipment | 1,366 | 1,476
+Goodwill, intangible assets, and other long-term assets | 893 | 1,090
+Total assets | $ | 3,621 | $ | 3,989
+Current liabilities, excluding current debt | 615 | 601
+Current and long-term debt | 1,848 | 1,952
+Other long-term liabilities | 272 | 371
+Stockholders’ equity | 886 | 1,064
+Total liabilities and stockholders' equity | $ | 3,621 | $ | 3,989
+Page | 4
+Reconciliation of Non-GAAP Measures
+(in millions of dollars)
+Reconciliation of Net sales and Adjusted EBITDA on a supplemental comparable basis by segment
+Quarterly Period ended September 26, 2026 | Quarterly Period ended September 27, 2025
+Americas | Rest of World | Total | Americas | Rest of World | Total
+Net sales | $ | 483 | $ | 368 | $ | 851 | $ | 467 | $ | 372 | $ | 839
+Constant FX rates | 6 | (2 | ) | 4
+PF divestiture | - | (4 | ) | (4 | )
+Comparable net sales (1)(6) | $ | 483 | $ | 368 | $ | 851 | $ | 473 | $ | 366 | $ | 839
+Operating income (loss) | $ | (39 | ) | $ | (51 | ) | $ | (90 | ) | $ | 11 | $ | (1 | ) | $ | 10
+Depreciation and amortization | 27 | 23 | 50 | 25 | 12 | 37
+Transaction, business consolidation and other activities (2) | 8 | 12 | 20 | 15 | 15 | 30
+Argentina hyperinflation | 1 | - | 1 | 3 | - | 3
+Goodwill and other impairment | 65 | 41 | 106 | - | - | -
+GAAP carve-out allocation (3) | - | - | - | - | - | -
+Other non-cash charges (4) (5) | 3 | 7 | 10 | 6 | 4 | 10
+Adjusted EBITDA (1) | $ | 65 | $ | 32 | $ | 97 | $ | 60 | $ | 30 | $ | 90
+Constant FX rates | 1 | (1 | ) | -
+PF divestiture | - | - | -
+Comparable Adjusted EBITDA (1)(6) | $ | 65 | $ | 32 | $ | 97 | $ | 61 | $ | 29 | $ | 90
+% vs. prior year comparable | 7 | % | 10 | % | 8 | %
+2026 Fiscal Year Ended | 2025 Fiscal Year Ended
+Americas | Rest of World | Total | Americas | Rest of World | Total
+Net sales | $ | 1,835 | $ | 1,461 | $ | 3,296 | $ | 1,833 | $ | 1,371 | $ | 3,204
+Constant FX rates | 35 | 74 | 109
+PF divestiture and merger | 42 | 66 | 108
+Comparable net sales (1)(6) | $ | 1,835 | $ | 1,461 | $ | 3,296 | $ | 1,910 | $ | 1,511 | $ | 3,421
+Operating income (loss) | $ | 3 | $ | (40 | ) | $ | (37 | ) | $ | 24 | $ | (19 | ) | $ | 5
+Depreciation and amortization | 122 | 78 | 200 | 132 | 74 | 206
+Transaction, business consolidation and other activities (2) | 45 | 28 | 73 | 58 | 36 | 94
+Argentina hyperinflation | 4 | - | 4 | 4 | - | 4
+Goodwill and other impairment | 65 | 41 | 106 | - | - | -
+GAAP carve-out allocation (3) | - | - | - | 2 | 1 | 3
+Other non-cash charges (4)(5) | 12 | 20 | 32 | 21 | 21 | 42
+Adjusted EBITDA (1) | $ | 251 | $ | 127 | $ | 378 | $ | 241 | $ | 113 | $ | 354
+Constant FX rates | 1 | 2 | 3
+PF divestiture and merger | 5 | 3 | 8
+Comparable Adjusted EBITDA (1)(6) | $ | 251 | $ | 127 | $ | 378 | $ | 247 | $ | 118 | $ | 365
+% vs. prior year comparable | 2 | % | 8 | % | 4 | %
+PF divestiture and merger | (2 | ) | (2 | )
+Synergies and cost reductions | 21
+PF Adjusted EBITDA | $ | 397
+Guidance (7)
+Fiscal 2027 | Adjusted EBITDA | Fiscal 2027 Midpoint | Fiscal 2026 Actual
+Cash flow from operating activities | $195 - $215 | Adjusted EBITDA | $400 | $378
+Additions to PPE (net) | (85) | % vs. prior year | ~6%
+Free Cash Flow | $110 - $130
+1. | Supplemental financial measures that are not required by, or presented in accordance with, accounting principles generally accepted in the United States (“GAAP”). These non-GAAP financial measures should not be considered as alternatives to operating or net income or cash flows from operating activities, in each case determined in accordance with GAAP. Comparable basis measures exclude the impact of currency translation effects and acquisitions. These non-GAAP financial measures may be calculated differently by other companies, including other companies in our industry, limiting their usefulness as comparative measures. Management believes that Adjusted EBITDA and other non-GAAP financial measures are useful to our investors because they allow for a better period-over-period comparison of operating results by removing the impact of items that, in management’s view, do not reflect our core operating performance. We define “free cash flow” as cash flow from operating activities less net additions to property, plant, and equipment. We believe free cash flow is useful to an investor in evaluating our liquidity because free cash flow and similar measures are widely used by investors, securities analysts, and other interested parties in our industry to measure a company’s liquidity. We believe free cash flow is also useful to an investor in evaluating our liquidity as it can assist in assessing a company’s ability to fund its growth through its generation of cash.
+We also use Adjusted EBITDA and comparable basis measures, among other measures, to evaluate management performance and in determining performance-based compensation. Adjusted EBITDA is a measure widely used by investors, securities analysts, and other interested parties in our industry to measure a company’s performance. We also believe these measures are useful to an investor in evaluating our performance without regard to revenue and expense recognition, which can vary depending upon accounting methods.
+2. | Includes restructuring, business optimization and other charges, which includes $19 million of transaction compensation expense in the prior year
+3. | Consists of estimated parent-allocated charges for the period prior to merger which is required by GAAP as part of the carve-out financial statement process
+4. | Prior year includes a $4 million and $16 million inventory step-up charge related to the merger in the quarter and YTD, respectively
+5. | Includes expense for stock compensation, sale/disposal of assets, and other non-cash charges
+6. | The prior year comparable basis change excludes the impacts of foreign currency and divestitures/acquisitions/mergers
+7. | Assumes constant-currency basis
+IR Contact Information
+Robert Weilminster
+EVP, Investor Relations
+IR@magnera.com
+Page | 5

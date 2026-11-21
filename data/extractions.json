@@ -1296,5 +1296,114 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1718227/000162828026074957/exhibit991_earningspressre.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1718227/000162828026074957/0001628280-26-074957-index.htm",
     "saved_at": "2026-11-21T06:08:19+08:00"
+  },
+  {
+    "cik": "1434524",
+    "company": "ClearSign Technologies Corp",
+    "accession": "0001104659-26-130612",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the 26-burner Gulf Coast project is starting up and early signs are that the burners will run within specifications.",
+        "quote": "indications from the client site are that the burners will be operating within specifications"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says M1 Series midstream burners won five orders in the third quarter and two more so far in the fourth.",
+        "quote": "Our M1 Series midstream burners are continuing to show market traction, with orders for five burners in the third quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says a full flare system has been delivered, with start-up due before year end, and expects sustained growth.",
+        "quote": "We believe this momentum, including these installations, positions the Company for sustained growth across its product portfolio."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of considerable progress, market traction and sustained growth, and mentions no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1434524-0001104659-26-130612.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/0001104659-26-130612-index.htm",
+    "saved_at": "2026-11-22T06:08:09+08:00"
+  },
+  {
+    "cik": "41719",
+    "company": "Magnera Corp",
+    "accession": "0001140361-26-044950",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 851,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 851"
+      },
+      "operating_income": {
+        "value": -90,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | (90"
+      },
+      "net_income": {
+        "value": -141,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (141"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "Magnera expects fiscal 2027 Adjusted EBITDA of $390 million to $410 million.",
+      "quote": "Adjusted EBITDA of $390 - $410 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fourth-quarter Adjusted EBITDA rose 8% on last year and full-year results beat last year by nearly 4%.",
+        "quote": "We finished Fiscal 2026 with an impressive 8% Adjusted EBITDA improvement in the fourth quarter compared to last year and delivered strong overall results for the full year surpassing prior year by nearly 4%."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says Project CORE, synergies and operational focus are cutting costs and lifting profitability and cash flow.",
+        "quote": "we are optimizing our cost structure, enhancing profitability, and generating exceptional cash flow"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the results came despite inflation and changing demand in its end markets.",
+        "quote": "Our teams delivered these results while navigating inflationary pressures and dynamic demand conditions across our end markets"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO is mindful of the macroeconomic environment but confident of sustainable earnings growth and strong cash generation.",
+        "quote": "While we remain mindful of the broader macroeconomic environment, we are confident that the strength of our team, our market positions, and our disciplined execution will continue to support sustainable earnings growth and strong cash generation."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results impressive and strong and is confident of growth, while noting inflation and the wider economy."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/41719-0001140361-26-044950.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+    "saved_at": "2026-11-22T06:08:09+08:00"
   }
 ]

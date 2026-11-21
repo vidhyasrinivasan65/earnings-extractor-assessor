@@ -80,6 +80,15 @@
       "results_filings": 62,
       "new": 38,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-22T06:08:09+08:00",
+      "start": "2026-11-19",
+      "end": "2026-11-20",
+      "hits": 49,
+      "results_filings": 47,
+      "new": 9,
+      "offline": false
     }
   ],
   "filings": {
@@ -55934,7 +55943,158 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000244/0000719955-26-000244-index.htm",
       "first_seen": "2026-11-21T06:08:19+08:00"
+    },
+    "0001531152-26-000083": {
+      "accession": "0001531152-26-000083",
+      "file_date": "2026-11-20",
+      "company": "BJ's Wholesale Club Holdings, Inc.",
+      "tickers": [
+        "BJ"
+      ],
+      "cik": "1531152",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0000885245-26-000041": {
+      "accession": "0000885245-26-000041",
+      "file_date": "2026-11-20",
+      "company": "BUCKLE INC",
+      "tickers": [
+        "BKE"
+      ],
+      "cik": "885245",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001104659-26-130612": {
+      "accession": "0001104659-26-130612",
+      "file_date": "2026-11-20",
+      "company": "ClearSign Technologies Corp",
+      "tickers": [
+        "CLIR"
+      ],
+      "cik": "1434524",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/0001104659-26-130612-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001048268-26-000176": {
+      "accession": "0001048268-26-000176",
+      "file_date": "2026-11-20",
+      "company": "IES Holdings, Inc.",
+      "tickers": [
+        "IESC"
+      ],
+      "cik": "1048268",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001140361-26-044950": {
+      "accession": "0001140361-26-044950",
+      "file_date": "2026-11-20",
+      "company": "Magnera Corp",
+      "tickers": [
+        "MAGN"
+      ],
+      "cik": "41719",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0000063296-26-000118": {
+      "accession": "0000063296-26-000118",
+      "file_date": "2026-11-20",
+      "company": "MATTHEWS INTERNATIONAL CORP",
+      "tickers": [
+        "MATW"
+      ],
+      "cik": "63296",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001628280-26-075170": {
+      "accession": "0001628280-26-075170",
+      "file_date": "2026-11-20",
+      "company": "MOOG INC.",
+      "tickers": [
+        "MOG-A",
+        "MOG-B"
+      ],
+      "cik": "67887",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001213900-26-122794": {
+      "accession": "0001213900-26-122794",
+      "file_date": "2026-11-20",
+      "company": "SUNation Energy, Inc.",
+      "tickers": [
+        "SUNE"
+      ],
+      "cik": "22701",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001493152-26-053548": {
+      "accession": "0001493152-26-053548",
+      "file_date": "2026-11-20",
+      "company": "TruGolf Holdings, Inc.",
+      "tickers": [
+        "TRUG"
+      ],
+      "cik": "1857086",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "4.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm",
+      "first_seen": "2026-11-22T06:08:09+08:00"
     }
   },
-  "updated_at": "2026-11-21T06:08:19+08:00"
+  "updated_at": "2026-11-22T06:08:09+08:00"
 }
