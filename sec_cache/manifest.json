@@ -1,112 +1,82 @@
 {
-  "fetched_at": "2026-11-21T10:47:44+08:00",
+  "fetched_at": "2026-11-22T09:13:17+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-19",
-    "end": "2026-11-20",
+    "start": "2026-11-20",
+    "end": "2026-11-21",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 11,
+  "answered": 11,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 81 ms"
+      "detail": "HTTP 200, 7 KB in 142 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 29 ms"
+      "detail": "HTTP 200, 148 KB in 65 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 31 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 18 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 60 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1434524/000110465926130612/tm2630382d1_ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 18 KB in 76 ms"
-    },
-    {
-      "name": "Magnera Corp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 25 ms"
-    },
-    {
-      "name": "Magnera Corp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 372 KB in 328 ms"
+      "detail": "HTTP 200, 153 KB in 19 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 79 ms"
+      "detail": "HTTP 200, 3,174 KB in 44 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 102 ms"
+      "detail": "HTTP 200, 4,447 KB in 61 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 551 ms"
-    },
-    {
-      "name": "ClearSign Technologies Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001434524.json",
-      "ok": true,
-      "detail": "HTTP 200, 1,883 KB in 1217 ms"
-    },
-    {
-      "name": "Magnera Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
-      "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 273 ms"
+      "detail": "HTTP 200, 2,745 KB in 27 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 755 ms"
+      "detail": "HTTP 200, 4,627 KB in 30 ms"
     },
     {
       "name": "SunPower Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 107 ms"
+      "detail": "HTTP 200, 1,788 KB in 112 ms"
     },
     {
       "name": "Construction Partners, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001718227.json",
       "ok": true,
-      "detail": "HTTP 200, 1,606 KB in 320 ms"
+      "detail": "HTTP 200, 1,606 KB in 386 ms"
+    },
+    {
+      "name": "Magnera Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,904 KB in 163 ms"
     }
   ],
   "files": [
@@ -114,17 +84,12 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001434524.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001718227.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001838987.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1434524_000110465926130612_index.json",
-    "www.sec.gov_Archives_edgar_data_1434524_000110465926130612_tm2630382d1_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_ef20086010_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_41719_000114036126044950_index.json"
+    "efts.sec.gov_search-index_from0.json"
   ]
 }
