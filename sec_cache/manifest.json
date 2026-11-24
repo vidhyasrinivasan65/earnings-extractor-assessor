@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T13:17:45+08:00",
+  "fetched_at": "2026-11-24T13:29:36+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,25 +16,25 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 26 KB in 137 ms"
+      "detail": "HTTP 200, 26 KB in 266 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 144 ms"
+      "detail": "HTTP 200, 149 KB in 108 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 125 ms"
+      "detail": "HTTP 200, 157 KB in 67 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 126 ms"
+      "detail": "HTTP 200, 154 KB in 117 ms"
     },
     {
       "name": "Fluence Energy, Inc. filing index",
@@ -46,13 +46,13 @@
       "name": "SOAR AI, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 238 ms"
+      "detail": "HTTP 200, 1 KB in 246 ms"
     },
     {
       "name": "SOAR AI, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 65 KB in 61 ms"
+      "detail": "HTTP 200, 65 KB in 58 ms"
     },
     {
       "name": "SEMTECH CORP filing index",
@@ -76,67 +76,67 @@
       "name": "Niki BioSolutions, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 145 ms"
+      "detail": "HTTP 200, 1 KB in 45 ms"
     },
     {
       "name": "Niki BioSolutions, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 33 KB in 70 ms"
+      "detail": "HTTP 200, 33 KB in 59 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 201 ms"
+      "detail": "HTTP 200, 3,175 KB in 80 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 206 ms"
+      "detail": "HTTP 200, 4,447 KB in 99 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 183 ms"
+      "detail": "HTTP 200, 2,745 KB in 169 ms"
     },
     {
       "name": "SOAR AI, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853070.json",
       "ok": true,
-      "detail": "HTTP 200, 818 KB in 296 ms"
+      "detail": "HTTP 200, 818 KB in 90 ms"
     },
     {
       "name": "Niki BioSolutions, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001734005.json",
       "ok": true,
-      "detail": "HTTP 200, 1,019 KB in 513 ms"
+      "detail": "HTTP 200, 1,019 KB in 80 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 326 ms"
+      "detail": "HTTP 200, 4,627 KB in 382 ms"
     },
     {
       "name": "SunPower Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 195 ms"
+      "detail": "HTTP 200, 1,788 KB in 394 ms"
     },
     {
       "name": "Construction Partners, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001718227.json",
       "ok": true,
-      "detail": "HTTP 200, 1,606 KB in 433 ms"
+      "detail": "HTTP 200, 1,606 KB in 184 ms"
     },
     {
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 322 ms"
+      "detail": "HTTP 200, 2,904 KB in 176 ms"
     }
   ],
   "files": [
