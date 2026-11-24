@@ -3807,5 +3807,102 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-25T06:08:58+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-25-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 8,
+      "total": 12,
+      "failures": [
+        {
+          "name": "Fluence Energy, Inc. filing index",
+          "detail": "blocked_by_routine_network: www.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "SEMTECH CORP filing index",
+          "detail": "blocked_by_routine_network: www.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Zoom Communications, Inc. filing index",
+          "detail": "blocked_by_routine_network: www.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "ALICO, INC. filing index",
+          "detail": "blocked_by_routine_network: www.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "radar_new": 26,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 1
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-20",
+      "end": "2026-11-24",
+      "hits": 40,
+      "results_filings": 35,
+      "new": 26,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1853070",
+        "company": "SOAR AI, Inc.",
+        "status": "saved",
+        "accession": "0001493152-26-053633",
+        "release_date": "2026-11-23",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1734005",
+        "company": "Niki BioSolutions, Inc.",
+        "status": "saved",
+        "accession": "0001213900-26-122933",
+        "release_date": "2026-11-23",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1868941",
+        "company": "Fluence Energy, Inc.",
+        "status": "failed",
+        "accession": "0001868941-26-000056",
+        "release_date": "2026-11-23",
+        "detail": "blocked_by_routine_network: www.sec.gov (the network proxy answered 403)"
+      }
+    ],
+    "offline": false
   }
 ]

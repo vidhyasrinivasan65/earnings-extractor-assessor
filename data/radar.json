@@ -89,6 +89,15 @@
       "results_filings": 47,
       "new": 9,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-25T06:08:58+08:00",
+      "start": "2026-11-20",
+      "end": "2026-11-24",
+      "hits": 40,
+      "results_filings": 35,
+      "new": 26,
+      "offline": false
     }
   ],
   "filings": {
@@ -56094,7 +56103,432 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm",
       "first_seen": "2026-11-22T06:08:09+08:00"
+    },
+    "0001090872-26-000082": {
+      "accession": "0001090872-26-000082",
+      "file_date": "2026-11-23",
+      "company": "AGILENT TECHNOLOGIES, INC.",
+      "tickers": [
+        "A"
+      ],
+      "cik": "1090872",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/0001090872-26-000082-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0000003545-26-000053": {
+      "accession": "0000003545-26-000053",
+      "file_date": "2026-11-23",
+      "company": "ALICO, INC.",
+      "tickers": [
+        "ALCO"
+      ],
+      "cik": "3545",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/3545/000000354526000053/0000003545-26-000053-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001628280-26-075523": {
+      "accession": "0001628280-26-075523",
+      "file_date": "2026-11-23",
+      "company": "Amentum Holdings, Inc.",
+      "tickers": [
+        "AMTM"
+      ],
+      "cik": "2011286",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2011286/000162828026075523/0001628280-26-075523-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001493152-26-053584": {
+      "accession": "0001493152-26-053584",
+      "file_date": "2026-11-23",
+      "company": "BIOTRICITY INC.",
+      "tickers": [
+        "BTCY"
+      ],
+      "cik": "1630113",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001562762-26-000134": {
+      "accession": "0001562762-26-000134",
+      "file_date": "2026-11-23",
+      "company": "CATO CORP",
+      "tickers": [
+        "CATO"
+      ],
+      "cik": "18255",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/18255/000156276226000134/0001562762-26-000134-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0000887733-26-000024": {
+      "accession": "0000887733-26-000024",
+      "file_date": "2026-11-23",
+      "company": "CENTRAL GARDEN & PET CO",
+      "tickers": [
+        "CENT",
+        "CENTA"
+      ],
+      "cik": "887733",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/0000887733-26-000024-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001213900-26-123209": {
+      "accession": "0001213900-26-123209",
+      "file_date": "2026-11-23",
+      "company": "CITIUS ONCOLOGY, INC.",
+      "tickers": [
+        "CTOR"
+      ],
+      "cik": "1851484",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/0001213900-26-123209-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001213900-26-123210": {
+      "accession": "0001213900-26-123210",
+      "file_date": "2026-11-23",
+      "company": "Citius Pharmaceuticals, Inc.",
+      "tickers": [
+        "CTXR"
+      ],
+      "cik": "1506251",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026123210/0001213900-26-123210-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001104659-26-130823": {
+      "accession": "0001104659-26-130823",
+      "file_date": "2026-11-23",
+      "company": "CITY THERAPEUTICS, INC.",
+      "tickers": [
+        "CTY"
+      ],
+      "cik": "2143850",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926130823/0001104659-26-130823-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001227654-26-000095": {
+      "accession": "0001227654-26-000095",
+      "file_date": "2026-11-23",
+      "company": "COMPASS MINERALS INTERNATIONAL INC",
+      "tickers": [
+        "CMP"
+      ],
+      "cik": "1227654",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1227654/000122765426000095/0001227654-26-000095-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001535527-26-000035": {
+      "accession": "0001535527-26-000035",
+      "file_date": "2026-11-23",
+      "company": "CrowdStrike Holdings, Inc.",
+      "tickers": [
+        "CRWD"
+      ],
+      "cik": "1535527",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001104659-26-131109": {
+      "accession": "0001104659-26-131109",
+      "file_date": "2026-11-23",
+      "company": "Exyn Technologies, Inc.",
+      "tickers": [
+        "EXYN",
+        "EXYNW"
+      ],
+      "cik": "1960355",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1960355/000110465926131109/0001104659-26-131109-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001868941-26-000056": {
+      "accession": "0001868941-26-000056",
+      "file_date": "2026-11-23",
+      "company": "Fluence Energy, Inc.",
+      "tickers": [
+        "FLNC"
+      ],
+      "cik": "1868941",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1868941/000186894126000056/0001868941-26-000056-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001477932-26-007221": {
+      "accession": "0001477932-26-007221",
+      "file_date": "2026-11-23",
+      "company": "GlobalTech Corp",
+      "tickers": [
+        "GLTK"
+      ],
+      "cik": "1938338",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1938338/000147793226007221/0001477932-26-007221-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001645590-26-000097": {
+      "accession": "0001645590-26-000097",
+      "file_date": "2026-11-23",
+      "company": "Hewlett Packard Enterprise Co",
+      "tickers": [
+        "HPE",
+        "HPE-PC"
+      ],
+      "cik": "1645590",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/0001645590-26-000097-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001628280-26-075492": {
+      "accession": "0001628280-26-075492",
+      "file_date": "2026-11-23",
+      "company": "JACOBS SOLUTIONS INC.",
+      "tickers": [
+        "J"
+      ],
+      "cik": "52988",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/0001628280-26-075492-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001628280-26-075497": {
+      "accession": "0001628280-26-075497",
+      "file_date": "2026-11-23",
+      "company": "Local Bounti Corporation/DE",
+      "tickers": [
+        "LOCL",
+        "LOCLW"
+      ],
+      "cik": "1840780",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075497/0001628280-26-075497-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001213900-26-122933": {
+      "accession": "0001213900-26-122933",
+      "file_date": "2026-11-23",
+      "company": "Niki BioSolutions, Inc.",
+      "tickers": [
+        "NIKI"
+      ],
+      "cik": "1734005",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/0001213900-26-122933-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001171843-26-007651": {
+      "accession": "0001171843-26-007651",
+      "file_date": "2026-11-23",
+      "company": "PennantPark Floating Rate Capital Ltd.",
+      "tickers": [
+        "PFLA",
+        "PFLT"
+      ],
+      "cik": "1504619",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1504619/000117184326007651/0001171843-26-007651-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001171843-26-007650": {
+      "accession": "0001171843-26-007650",
+      "file_date": "2026-11-23",
+      "company": "PENNANTPARK INVESTMENT CORP",
+      "tickers": [
+        "PNNT"
+      ],
+      "cik": "1383414",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1383414/000117184326007650/0001171843-26-007650-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0000088941-26-000045": {
+      "accession": "0000088941-26-000045",
+      "file_date": "2026-11-23",
+      "company": "SEMTECH CORP",
+      "tickers": [
+        "SMTC"
+      ],
+      "cik": "88941",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/88941/000008894126000045/0000088941-26-000045-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001493152-26-053633": {
+      "accession": "0001493152-26-053633",
+      "file_date": "2026-11-23",
+      "company": "SOAR AI, Inc.",
+      "tickers": [
+        "SOAR",
+        "SOARW"
+      ],
+      "cik": "1853070",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/0001493152-26-053633-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001837240-26-000047": {
+      "accession": "0001837240-26-000047",
+      "file_date": "2026-11-23",
+      "company": "Symbotic Inc.",
+      "tickers": [
+        "SYM"
+      ],
+      "cik": "1837240",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000047/0001837240-26-000047-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001681622-26-000085": {
+      "accession": "0001681622-26-000085",
+      "file_date": "2026-11-23",
+      "company": "Varex Imaging Corp",
+      "tickers": [
+        "VREX"
+      ],
+      "cik": "1681622",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1681622/000168162226000085/0001681622-26-000085-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001585521-26-000170": {
+      "accession": "0001585521-26-000170",
+      "file_date": "2026-11-23",
+      "company": "Zoom Communications, Inc.",
+      "tickers": [
+        "ZM"
+      ],
+      "cik": "1585521",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1585521/000158552126000170/0001585521-26-000170-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
+    },
+    "0001193125-26-470942": {
+      "accession": "0001193125-26-470942",
+      "file_date": "2026-11-23",
+      "company": "Zscaler, Inc.",
+      "tickers": [
+        "ZS"
+      ],
+      "cik": "1713683",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/0001193125-26-470942-index.htm",
+      "first_seen": "2026-11-25T06:08:58+08:00"
     }
   },
-  "updated_at": "2026-11-22T06:08:09+08:00"
+  "updated_at": "2026-11-25T06:08:58+08:00"
 }

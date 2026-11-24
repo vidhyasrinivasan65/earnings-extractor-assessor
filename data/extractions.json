@@ -1405,5 +1405,118 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
     "saved_at": "2026-11-22T06:08:09+08:00"
+  },
+  {
+    "cik": "1853070",
+    "company": "SOAR AI, Inc.",
+    "accession": "0001493152-26-053633",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.3,
+        "unit": "USD millions",
+        "quote": "Revenue up 245% to $1.3 million, compared to $0.4 million in prior year"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -33.178,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (33,178"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company expects its signed orders to generate revenue of $175 million to $200 million in 2027.",
+      "quote": "the Company continues to expect the signed orders to generate revenue of $175 million to $200 million in 2027"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the first Ohio deployment is under four-year take-or-pay orders and the campus should power on in the coming weeks.",
+        "quote": "The capacity for our first deployment in Ohio is under four-year take-or-pay orders, and we expect to power on the campus in the coming weeks."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CFO says the reported loss mainly reflects non-cash merger charges for a note and for warrant remeasurement.",
+        "quote": "Our reported results this quarter reflect accounting for the merger, most significantly non-cash charges for the note we issued as consideration for certain waivers in connection with our convertible note facility"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CFO says that, excluding those items, the adjusted EBITDA loss narrowed and the aviation segment reached positive operating income.",
+        "quote": "Excluding those items, our adjusted EBITDA loss narrowed from a year ago, and our Aviation AI and software segment reached positive operating income."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CFO says the focus is now on completing financing for the contracted deployments and delivering first capacity on schedule.",
+        "quote": "our focus now is on completing the financing for our contracted deployments and delivering our first capacity on schedule."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is confident about contracts and the campus, while the CFO explains a large reported loss and says financing still has to be completed."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1853070-0001493152-26-053633.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/0001493152-26-053633-index.htm",
+    "saved_at": "2026-11-25T06:08:58+08:00"
+  },
+  {
+    "cik": "1734005",
+    "company": "Niki BioSolutions, Inc.",
+    "accession": "0001213900-26-122933",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.002015,
+        "unit": "USD millions",
+        "quote": "Revenue for the three months ended September 30, 2026 was $2,015, compared to no revenue for the three months ended September 30, 2025."
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -2.777566,
+        "unit": "USD millions",
+        "quote": "Net loss attributable to Niki BioSolutions increased to $2,777,566 for the three months ended September 30, 2026"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The President says Pharma Services testing is the immediate commercial priority.",
+        "quote": "Pharma Services testing is our immediate commercial priority."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The President expects CogniMIR clinical validation to begin in the first half of 2027, with top-line results targeted in the fourth quarter of 2027.",
+        "quote": "We anticipate beginning clinical validation in the first half of 2027 and are targeting top-line results in the fourth quarter of 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says resources will go to opportunities showing demand and progress, paced by results, customer needs and available funding.",
+        "quote": "We intend to allocate resources to opportunities that demonstrate commercial demand and scientific progress, with execution paced by technical results, customer needs, and available funding."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management describes a solid foundation and growth plans, but paces spending by technical results, customer needs and available funding."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1734005-0001213900-26-122933.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/0001213900-26-122933-index.htm",
+    "saved_at": "2026-11-25T06:08:58+08:00"
   }
 ]
