@@ -1,161 +1,137 @@
 {
-  "fetched_at": "2026-11-24T13:29:36+08:00",
+  "fetched_at": "2026-11-25T12:08:29+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-20",
+    "start": "2026-11-24",
     "end": "2026-11-24",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 21,
+  "requests": 17,
   "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-24",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 26 KB in 266 ms"
+      "detail": "HTTP 200, 23 KB in 131 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 108 ms"
+      "detail": "HTTP 200, 149 KB in 35 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 67 ms"
+      "detail": "HTTP 200, 158 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 117 ms"
+      "detail": "HTTP 200, 154 KB in 17 ms"
     },
     {
-      "name": "Fluence Energy, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1868941/000186894126000056/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "SOAR AI, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/index.json",
+      "name": "MOVADO GROUP INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/72573/000095014226003145/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 246 ms"
+      "detail": "HTTP 200, 1 KB in 61 ms"
     },
     {
-      "name": "SOAR AI, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm",
+      "name": "MOVADO GROUP INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/72573/000095014226003145/eh260858771_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 65 KB in 58 ms"
+      "detail": "HTTP 200, 226 KB in 58 ms"
     },
     {
-      "name": "SEMTECH CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/88941/000008894126000045/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "Zoom Communications, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1585521/000158552126000170/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "ALICO, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/3545/000000354526000053/index.json",
-      "ok": false,
-      "detail": "HTTP 404 from www.sec.gov: the address was not found"
-    },
-    {
-      "name": "Niki BioSolutions, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/index.json",
+      "name": "Titan Machinery Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 45 ms"
+      "detail": "HTTP 200, 1 KB in 59 ms"
     },
     {
-      "name": "Niki BioSolutions, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026122933/ea031301501ex99-1.htm",
+      "name": "Titan Machinery Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/afy27q3ex991earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 33 KB in 59 ms"
+      "detail": "HTTP 200, 269 KB in 44 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 80 ms"
+      "detail": "HTTP 200, 3,175 KB in 28 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 99 ms"
+      "detail": "HTTP 200, 4,447 KB in 25 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 169 ms"
+      "detail": "HTTP 200, 2,745 KB in 57 ms"
     },
     {
-      "name": "SOAR AI, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853070.json",
+      "name": "MOVADO GROUP INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000072573.json",
       "ok": true,
-      "detail": "HTTP 200, 818 KB in 90 ms"
+      "detail": "HTTP 200, 3,622 KB in 28 ms"
     },
     {
-      "name": "Niki BioSolutions, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001734005.json",
+      "name": "Titan Machinery Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409171.json",
       "ok": true,
-      "detail": "HTTP 200, 1,019 KB in 80 ms"
+      "detail": "HTTP 200, 3,035 KB in 342 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 382 ms"
+      "detail": "HTTP 200, 4,627 KB in 39 ms"
     },
     {
       "name": "SunPower Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 394 ms"
+      "detail": "HTTP 200, 1,788 KB in 337 ms"
     },
     {
       "name": "Construction Partners, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001718227.json",
       "ok": true,
-      "detail": "HTTP 200, 1,606 KB in 184 ms"
+      "detail": "HTTP 200, 1,685 KB in 24 ms"
     },
     {
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 176 ms"
+      "detail": "HTTP 200, 2,904 KB in 24 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000041719.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000072573.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001409171.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001718227.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001734005.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001838987.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001853070.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1734005_000121390026122933_ea031301501ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1734005_000121390026122933_index.json",
-    "www.sec.gov_Archives_edgar_data_1853070_000149315226053633_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1853070_000149315226053633_index.json"
+    "www.sec.gov_Archives_edgar_data_1409171_000162828026075606_afy27q3ex991earningsrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1409171_000162828026075606_index.json",
+    "www.sec.gov_Archives_edgar_data_72573_000095014226003145_eh260858771_ex9901.htm",
+    "www.sec.gov_Archives_edgar_data_72573_000095014226003145_index.json"
   ]
 }
