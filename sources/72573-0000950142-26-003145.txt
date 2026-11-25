@@ -1,0 +1,187 @@
+Company: MOVADO GROUP INC (CIK 72573)
+Accession: 0000950142-26-003145
+Results released: 2026-11-24
+Press release: https://www.sec.gov/Archives/edgar/data/72573/000095014226003145/eh260858771_ex9901.htm
+Filing: https://www.sec.gov/Archives/edgar/data/72573/000095014226003145/0000950142-26-003145-index.htm
+Saved: 2026-11-26T06:08:38+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 eh260858771_ex9901.htm EXHIBIT 99.1
+EXHIBIT 99.1
+CONTACT: | ICR, Inc.
+Allison Malkin
+203-682-8200
+MOVADO GROUP, INC. ANNOUNCES THIRD QUARTER
+FISCAL 2027 RESULTS
+~ Net Sales of $198.3 million ~
+~ Operating Income of $17.1 million ~
+~ EPS of $0.56 ~
+~ Board Declares Quarterly Dividend of $0.40 per share ~
+Paramus, NJ – November 24, 2026 -- Movado Group, Inc. (NYSE: MOV) today announced third quarter and nine-month results for the periods ended October 31, 2026.
+Third Quarter Fiscal 2027 Highlights
+· | Net sales increased 6.5% to $198.3 million versus $186.1 million in the third quarter of fiscal 2026;
+· | Gross margin expanded 210 basis points to 56.4% compared to 54.3% in the third quarter of fiscal 2026;
+· | Operating income grew $5.4 million to $17.1 million, representing an increase of 46.2%, compared to $11.7 million in the third quarter of fiscal 2026 and increased 36.2% compared to adjusted operating income of $12.6 million in the third quarter of fiscal 2026;
+· | Diluted earnings per share increased 33.3% to $0.56 compared to $0.42 in the third quarter of fiscal 2026 and increased 24.4% compared to adjusted diluted earnings per share of $0.45 in the third quarter of fiscal 2026; and
+· | The quarter ended with $207.2 million in cash and no debt.
+Efraim Grinberg, Chairman and Chief Executive Officer, stated: “We delivered a strong third quarter, building on the momentum from the first half of the year. The quarter was highlighted by increases across our key financial metrics, including a 6.5% increase in net sales, with strength in our Movado brand and our licensed brands; a 210-basis-point expansion in gross margin; and a 33% increase in diluted earnings per share. These results underscore the strength of our business model, the power of our portfolio of global brands, and the excellent execution of our strategy by our management team, as we continue to focus heavily on the consumer—delivering high-impact innovation and enhanced customer engagement.”
+“We ended the quarter with cash of $207.2 million and no debt, after investing to support our long-term growth and returning $25.6 million to shareholders through year-to-date dividend payments,” Mr. Grinberg continued. “As previously announced on October 8, 2026, we entered into an agreement to sell a 95% interest in our EBEL brand. This will allow us to concentrate on executing our priorities across our watch and jewelry portfolio, while placing EBEL with owners who have the expertise and commitment to support the next phase of growth for this exceptional Swiss brand.”
+“While we continue to navigate a dynamic environment, we believe our disciplined execution of our strategic priorities, including continued innovation in our offerings and brand-building marketing initiatives, positions us well for the holiday season,” Mr. Grinberg stated further. “We remain confident in our ability to generate long-term profitable growth and increased value for our shareholders,” Mr. Grinberg concluded.
+Non-GAAP Items (See attached table for GAAP and Non-GAAP measures)
+Third quarter fiscal 2026 results of operations included a $0.9 million pre-tax charge, or $0.7 million after tax, representing $0.03 per diluted share, related to the investigation of misconduct within the Dubai branch of the Company’s Swiss subsidiary.
+In this press release, references to “adjusted” results exclude the impact of the above charge and the impact of the items described in the Non-GAAP Items section of the Company’s earnings release for the first and second quarters of fiscal 2027 and 2026. Please refer to the attached GAAP and Non-GAAP measures table for a detailed reconciliation of the Company’s reported results to its adjusted, non-GAAP results.
+Third Quarter Fiscal 2027 Results (See attached table for GAAP and Non-GAAP measures)
+· | Net sales increased 6.5% to $198.3 million, or increased 6.9% on a constant-dollar basis, compared to $186.1 million in the third quarter of fiscal 2026. The increase in net sales was driven by growth across the Company’s owned and licensed brands and reflected approximately $5.0 million of customer shipments occurring earlier than originally anticipated. U.S. net sales increased 12.3%, as compared to the third quarter of fiscal 2026. International net sales increased 2.5% (3.1% on a constant-dollar basis), as compared to the third quarter of fiscal 2026.
+· | Gross profit was $111.8 million, or 56.4% of net sales, compared to $101.1 million, or 54.3% of net sales, in the third quarter of fiscal 2026. The 210 basis-point improvement in gross margin was primarily the result of positive channel and product mix, partially offset by higher fixed costs net of increased leveraging over higher sales, and higher shipping costs.
+· | Operating expenses were $94.6 million in the third quarter of fiscal 2027 compared to $89.3 million in the third quarter of fiscal 2026. This increase was primarily due to increased marketing expenses to support higher sales. As a percentage of net sales, operating expenses decreased to 47.7% of net sales from 48.0% in the prior-year period. Adjusted operating expenses in the third quarter of fiscal 2026 were $88.5 million, or 47.5% of net sales.
+· | Operating income was $17.1 million, or 8.6% of net sales, compared to $11.7 million, or 6.3% of net sales, in the third quarter of fiscal 2026. Adjusted operating income in the third quarter of fiscal 2026 was $12.6 million, or 6.8% of net sales.
+· | The Company recorded a tax provision of $5.4 million, or an effective tax rate of 29.8%, in the third quarter of fiscal 2027. The Company recorded a tax provision of $3.3 million and an adjusted tax provision of $3.5 million, or an adjusted tax rate of 25.2%, in the third quarter of fiscal 2026.
+· | Net income for the third quarter of fiscal 2027 was $12.9 million, or $0.56 per diluted share, compared to $9.6 million, or $0.42 per diluted share, in the third quarter of fiscal 2026. Adjusted net income was $10.2 million, or $0.45 per diluted share, in the third quarter of fiscal 2026.
+Nine Months Fiscal 2027 Results (See attached table for GAAP and Non-GAAP measures)
+· | Net sales for the first nine months of fiscal 2027 increased 6.4% to $510.4 million, or increased 5.4% on a constant-dollar basis, compared to $479.7 million in the first nine months of fiscal 2026. The increase in net sales reflected increases across the Company’s owned and licensed brands and its Movado Company Stores. U.S. net sales increased 8.8%, as compared to the first nine months of last year. International net sales increased 4.7% (3.0% on a constant-dollar basis), as compared to the first nine months of last year.
+· | Gross profit was $294.2 million, or 57.6% of net sales, compared to $260.0 million, or 54.2% of net sales, in the first nine months of fiscal 2026. The 340-basis-point improvement in gross margin included $3.2 million, or 60 basis points, from IEEPA duty refunds, as well as the positive impact of changes in channel and product mix.
+· | Operating expenses were $255.2 million, compared to $243.9 million in the first nine months of fiscal 2026. As a percentage of sales, operating expenses were 50.0% of net sales versus 50.9% of net sales in the first nine months of last year. Adjusted operating expenses for the first nine months of fiscal 2027 were $254.5 million, or 49.9% of net sales, compared to $239.5 million, or 49.9% of net sales, for the first nine months of fiscal 2026. The increase in adjusted operating expenses was primarily due to higher performance-based compensation and increased marketing and selling expenses to support the increased sales.
+· | Operating income was $39.0 million, or 7.6% of net sales, compared to operating income of $16.0 million, or 3.3% of net sales, in the first nine months of fiscal 2026. Adjusted operating income was $39.7 million, or 7.8% of net sales, for the first nine months of fiscal 2027 compared to $20.5 million, or 4.3% of net sales, in the first nine months of fiscal 2026. Both operating income and adjusted operating income for the first nine months of fiscal 2027 included $3.2 million in IEEPA duty refunds.
+· | The Company recorded a tax provision of $10.9 million, or a tax rate of 25.3%, compared to a tax provision of $5.9 million, or a tax rate of 29.5%, in the first nine months of fiscal 2026. Based on adjusted pre-tax income, the adjusted tax provision for the first nine months of fiscal 2027 was $11.1 million, or an adjusted tax rate of 25.3%. This compares to an adjusted tax provision of $6.9 million, or an adjusted tax rate of 28.3%, in the first nine months of fiscal 2026.
+· | Net income was $32.1 million, or $1.40 per diluted share, compared to net income of $14.0 million, or $0.62 per diluted share, in the first nine months of last year. Adjusted net income for the first nine months of fiscal 2027 was $32.6 million, or $1.42 per diluted share, compared to adjusted net income of $17.4 million, or $0.77 per diluted share, in the first nine months of fiscal 2026. Both net income and adjusted net income for the first nine months of fiscal 2027 included $2.5 million in IEEPA duty refunds plus interest thereon, net of taxes.
+Quarterly Dividend and Share Repurchase Program
+The Company also announced that on November 24, 2026, the Board of Directors declared the payment on December 21, 2026, of a cash dividend in the amount of $0.40 for each share of the Company’s outstanding common stock and class A common stock held by shareholders of record as of the close of business on December 7, 2026.
+During the first nine months of fiscal 2027, the Company repurchased 61,000 shares under its December 5, 2024, share repurchase program. As of October 31, 2026, the Company had $44.6 million remaining available under the share repurchase program.
+EBEL
+On October 8, 2026, the Company announced that it entered into a binding agreement to sell a 95% interest in its EBEL brand for $66.5 million, subject to customary purchase price adjustments. The closing is expected to take place before the Company’s fiscal year end.
+Outlook
+As previously noted, the Company has discontinued providing an annual outlook yet remains committed to providing transparency and insight into its business, markets, and current trends. Considering the early delivery of approximately $5.0 million of shipments in the third quarter as noted above, the Company expects fourth quarter sales to be approximately flat on constant-currency basis, with gross margin in the range of 55% to 56%, excluding any additional IEEPA duty refunds.
+Conference Call
+The Company’s management will host a conference call and audio webcast to discuss its results today, November 24, 2026, at 9:00 a.m. Eastern Time. The conference call may be accessed by dialing (877) 407-0784. Additionally, a live webcast of the call can be accessed at www.movadogroup.com. The webcast will be archived on the Company’s website approximately one hour after the conclusion of the call. Additionally, a telephonic replay of the call will be available at 1:00 p.m. ET on November 24, 2026, until 11:59 p.m. ET on December 8, 2026, and can be accessed by dialing (844) 512-2921 and entering replay number 13763847.
+Movado Group, Inc. designs, sources, and distributes MOVADO®, MVMT®, OLIVIA BURTON®, EBEL®, CONCORD®, CALVIN KLEIN®, COACH®, TOMMY HILFIGER®, HUGO BOSS®, and LACOSTE® watches, and, to a lesser extent, jewelry and other accessories, and operates Movado Company Stores in the United States and Canada.
+In this release, the Company presents certain financial measures that are not calculated according to generally accepted accounting principles in the United States (“GAAP”). Specifically, the Company is presenting adjusted operating expenses, adjusted operating income, adjusted pre-tax income, adjusted tax provision, adjusted tax rate, adjusted net income and adjusted diluted earnings per share, which are operating expenses, operating income, pre-tax income, tax provision, net income and diluted earnings per share, respectively, under GAAP, adjusted to eliminate costs due to the investigation referred to above and the establishment of a provision for a cost-savings initiative. The Company believes the adjusted measures are useful because they give investors information about the Company’s financial performance without the effect of certain items that the Company believes are not characteristic of its usual operations. Additionally, the Company is presenting constant-currency information to provide a framework to assess how its business performed excluding the effects of foreign currency exchange rate fluctuations in the current period. Comparisons of financial results on a constant-dollar basis are calculated by translating each foreign currency at the same U.S. dollar exchange rate as in effect for the prior-year period for both periods being compared. The Company believes this information is useful to investors to facilitate comparisons of operating results. These non-GAAP financial measures are designed to complement the GAAP financial information presented in this release. The non-GAAP financial measures presented should not be considered in isolation from or as a substitute for the comparable GAAP financial measures, and the methods of their calculation may differ substantially from similarly titled measures used by other companies.
+This press release contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The Company has tried, whenever possible, to identify these forward-looking statements using words such as “expects,” “anticipates,” “believes,” “targets,” “goals,” “projects,” “intends,” “plans,” “seeks,” “estimates,” “may,” “will,” “should” and variations of such words and similar expressions. Similarly, statements in this press release that describe the Company’s business strategy, outlook, objectives, plans, intentions or goals are also forward-looking statements. Accordingly, such forward-looking statements involve known and unknown risks, uncertainties and other factors that could cause the Company’s actual results, performance or achievements and levels of future dividends to differ materially from those expressed in, or implied by, these statements. These risks and uncertainties may include, but are not limited to the possibility that the proposed sale of a 95% interest in the EBEL business may not be completed on the anticipated timetable or at all; the satisfaction or waiver of the conditions to closing of such sale, including completion of the contemplated pre-closing reorganization and receipt of any required regulatory, tax or other approvals; the possibility that the final consideration for such sale may differ from the announced amount as a result of purchase price adjustments; the diversion of management attention and other disruptions resulting from the EBEL transaction; the Company’s ability to perform its transition and other post-closing obligations related to the EBEL transaction; the financial, tax and accounting effects of the EBEL transaction, including transaction costs and taxes; the performance of EBEL following the transaction and the value of the Company’s retained 5% interest; the Company’s ability to realize the anticipated strategic and financial benefits of the EBEL transaction; the Company’s ability to maintain effective internal control over financial reporting in the future, general economic and business conditions which may impact disposable income of consumers in the United States and the other significant markets (including Europe) where the Company’s products are sold, uncertainty regarding such economic and business conditions, including inflation, elevated interest rates, increased commodity prices and tightness in the labor market, trends in consumer debt levels and bad debt write-offs, general uncertainty related to geopolitical concerns, the increase in tariffs and other trade barriers, the impact of international hostilities, including the Russian invasion of Ukraine and war in the Middle East, on global markets, economies and consumer spending, on energy and shipping costs, and on the Company’s supply chain and suppliers, supply disruptions, delivery delays and increased shipping costs, defaults on or downgrades of sovereign debt and the impact of any of those events on consumer spending, evolving stakeholder expectations and emerging complex laws on environmental, social, and governance matters, changes in consumer preferences and popularity of particular designs, new product development and introduction, decrease in mall traffic and increase in e-commerce, the ability of the Company to successfully implement its business strategies, competitive products and pricing, including price increases to offset increased costs, the impact of “smart” watches and other wearable tech products on the traditional watch market, seasonality, the timing of customer orders and shipments, availability of alternative sources of supply in the case of the loss of any significant supplier or any supplier’s inability to fulfill the Company’s orders, the loss of or curtailed sales to significant customers, the Company’s dependence on key employees and officers, the ability to successfully integrate the operations of acquired businesses without disruption to other business activities, the possible impairment of acquired intangible assets, including long-lived assets, risks associated with the Company’s minority investments in early-stage growth companies and venture capital funds that invest in such companies, the continuation of the Company’s major warehouse and distribution centers, the continuation of licensing arrangements with third parties, losses possible from pending or future litigation and administrative proceedings, the ability to secure and protect trademarks, patents and other intellectual property rights, the ability to lease new stores on suitable terms in desired markets and to complete construction on a timely basis, the ability of the Company to successfully manage its expenses on a continuing basis, information systems failure or breaches of network security, including cybersecurity risks posed by increasing reliance on cloud services and generative artificial intelligence, complex and quickly-evolving regulations regarding privacy and data protection, regulatory restrictions and a changing marketing environment, including the movement toward a cookieless future and increased digital advertising costs, requirements to meet environmental, social and governance regulations, expectations or standards, including climate change-related risks and regulatory requirements, the impact of current or future cost reduction, streamlining, restructuring or business optimization initiatives, risks associated with laws and regulations relating to supply chain transparency and forced labor, changes to existing laws or regulations, including changes to tax laws or regulations, the continued availability to the Company of financing and credit on favorable terms, business disruptions, and general risks associated with doing business internationally, including, without limitation, import duties, tariffs (including retaliatory tariffs, the potential imposition of tariffs under alternative statutory authorities and the Company’s ability to receive additional refunds for IEEPA duties previously paid), quotas, political and economic stability, anti-corruption and anti-bribery laws, changes to existing laws or regulations, and impacts of currency exchange rate fluctuations and the success of hedging strategies related thereto, and the other factors discussed in the Company’s Annual Report on Form 10-K and other filings with the Securities and Exchange Commission. These statements reflect the Company’s current beliefs and are based upon information currently available to it. Be advised that developments subsequent to this press release are likely to cause these statements to become outdated with the passage of time. The Company assumes no duty to update its forward-looking statements and this release shall not be construed to indicate the assumption by the Company of any duty to update its outlook in the future.
+(Tables to follow)
+MOVADO GROUP, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+(Unaudited)
+Three Months Ended | Nine Months Ended
+October 31, | October 31,
+2026 | 2025 | 2026 | 2025
+Net sales | $ | 198,292 | $ | 186,132 | $ | 510,446 | $ | 479,730
+Cost of sales | 86,521 | 85,076 | 216,257 | 219,759
+Gross profit | 111,771 | 101,056 | 294,189 | 259,971
+Total operating expenses | 94,631 | 89,331 | 255,156 | 243,948
+Operating income | 17,140 | 11,725 | 39,033 | 16,023
+Non-operating income/(expense):
+Other income, net | 1,230 | 1,347 | 4,446 | 4,309
+Interest expense | (100 | ) | (136 | ) | (310 | ) | (357 | )
+Income before income taxes | 18,270 | 12,936 | 43,169 | 19,975
+Provision for income taxes | 5,446 | 3,275 | 10,929 | 5,896
+Net income | 12,824 | 9,661 | 32,240 | 14,079
+Less: Net (loss)/income attributable to noncontrolling interests | (29 | ) | 78 | 158 | 90
+Net income attributable to Movado Group, Inc. | $ | 12,853 | $ | 9,583 | $ | 32,082 | $ | 13,989
+Diluted Income Per Share Information
+Net income per share attributable to Movado Group, Inc. | $ | 0.56 | $ | 0.42 | $ | 1.40 | $ | 0.62
+Weighted diluted average shares outstanding | 23,122 | 22,731 | 22,996 | 22,497
+MOVADO GROUP, INC.
+GAAP AND NON-GAAP MEASURES
+(In thousands, except per share data)
+(Unaudited)
+Three Months Ended
+October 31, | % Change
+2026 | 2025
+Total net sales, as reported | $ | 198,292 | $ | 186,132 | 6.5 | %
+Total net sales, constant dollar basis | $ | 198,930 | $ | 186,132 | 6.9 | %
+Nine Months Ended
+October 31, | % Change
+2026 | 2025
+Total net sales, as reported | $ | 510,446 | $ | 479,730 | 6.4 | %
+Total net sales, constant dollar basis | $ | 505,691 | $ | 479,730 | 5.4 | %
+MOVADO GROUP, INC.
+GAAP AND NON-GAAP MEASURES
+(In thousands, except for percentage data)
+(Unaudited)
+Net Sales | Gross Profit | Total Operating Expenses | Operating Income | Pre-tax Income | Provision/ (Benefit) for Income Taxes | Net Income Attributable to Movado Group, Inc. | Diluted EPS
+Three Months Ended October 31, 2026
+As Reported (GAAP) | $ | 198,292 | $ | 111,771 | $ | 94,631 | $ | 17,140 | $ | 18,270 | $ | 5,446 | $ | 12,853 | $ | 0.56
+Three Months Ended October 31, 2025
+As Reported (GAAP) | $ | 186,132 | $ | 101,056 | $ | 89,331 | $ | 11,725 | $ | 12,936 | $ | 3,275 | $ | 9,583 | $ | 0.42
+Costs related to the Dubai matter (1) | — | — | (855 | ) | 855 | 855 | 199 | 656 | 0.03
+Adjusted Results (Non-GAAP) | $ | 186,132 | $ | 101,056 | $ | 88,476 | $ | 12,580 | $ | 13,791 | $ | 3,474 | $ | 10,239 | $ | 0.45
+Net Sales | Gross Profit | Total Operating Expenses | Operating Income | Pre-tax Income | Provision/ (Benefit) for Income Taxes | Net Income Attributable to Movado Group, Inc. | Diluted EPS
+Nine Months Ended October 31, 2026
+As Reported (GAAP) | $ | 510,446 | $ | 294,189 | $ | 255,156 | $ | 39,033 | $ | 43,169 | $ | 10,929 | $ | 32,082 | $ | 1.40
+Costs related to the Dubai matter (1) | — | — | (664 | ) | 664 | 664 | 159 | 505 | 0.02
+Adjusted Results (Non-GAAP) | $ | 510,446 | $ | 294,189 | $ | 254,492 | $ | 39,697 | $ | 43,833 | $ | 11,088 | $ | 32,587 | $ | 1.42
+Nine Months Ended October 31, 2025
+As Reported (GAAP) | $ | 479,730 | $ | 259,971 | $ | 243,948 | $ | 16,023 | $ | 19,975 | $ | 5,896 | $ | 13,989 | $ | 0.62
+Costs related to the Dubai matter (1) | — | — | (2,991 | ) | 2,991 | 2,991 | 714 | 2,277 | 0.10
+Cost-Savings Initiative (2) | — | — | (1,451 | ) | 1,451 | 1,451 | 309 | 1,142 | 0.05
+Adjusted Results (Non-GAAP) | $ | 479,730 | $ | 259,971 | $ | 239,506 | $ | 20,465 | $ | 24,417 | $ | 6,919 | $ | 17,408 | $ | 0.77
+(1) | Costs related to the investigation of misconduct within the Dubai branch of the Company's Swiss subsidiary.
+(2) | Related to the establishment of a provision for a corporate cost-savings initiative.
+MOVADO GROUP, INC.
+CONSOLIDATED BALANCE SHEETS
+(In thousands)
+(Unaudited)
+October 31, | January 31, | October 31,
+2026 | 2026 | 2025
+ASSETS
+Cash and cash equivalents | $ | 207,227 | $ | 230,541 | $ | 183,876
+Trade receivables, net | 120,021 | 102,037 | 118,311
+Inventories | 174,480 | 158,331 | 196,911
+Other current assets | 18,172 | 22,208 | 18,936
+Income taxes receivable | 6,268 | 4,118 | 3,981
+Assets held for sale | 15,937 | — | —
+Total current assets | 542,105 | 517,235 | 522,015
+Property, plant and equipment, net | 15,008 | 17,105 | 18,215
+Operating lease right-of-use assets | 59,509 | 67,873 | 72,516
+Deferred and non-current income taxes | 44,867 | 45,917 | 43,278
+Other intangibles, net | 2,426 | 4,162 | 4,456
+Other non-current assets | 92,714 | 90,329 | 91,419
+Total assets | $ | 756,629 | $ | 742,621 | $ | 751,899
+LIABILITIES AND EQUITY
+Accounts payable | $ | 29,521 | $ | 21,138 | $ | 27,149
+Accrued liabilities | 63,766 | 49,748 | 64,148
+Accrued payroll and benefits | 18,682 | 17,896 | 15,773
+Current operating lease liabilities | 16,633 | 20,603 | 20,186
+Income taxes payable | 6,305 | 3,663 | 1,443
+Liabilities held for sale | 1,350 | — | —
+Total current liabilities | 136,257 | 113,048 | 128,699
+Deferred and non-current income taxes payable | 1,170 | 1,030 | 1,082
+Non-current operating lease liabilities | 52,049 | 58,063 | 62,884
+Other non-current liabilities | 60,382 | 60,220 | 59,345
+Shareholders' equity | 505,199 | 508,842 | 497,454
+Noncontrolling interest | 1,572 | 1,418 | 2,435
+Total equity | 506,771 | 510,260 | 499,889
+Total liabilities and equity | $ | 756,629 | $ | 742,621 | $ | 751,899
+MOVADO GROUP, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+(Unaudited)
+Nine Months Ended
+October 31,
+2026 | 2025
+Cash flows from operating activities:
+Net income | $ | 32,240 | $ | 14,079
+Depreciation and amortization | 7,158 | 7,039
+Other non-cash adjustments | 9,575 | 9,525
+Changes in working capital | (32,000 | ) | (30,719 | )
+Changes in non-current assets and liabilities | (1,476 | ) | 1,342
+Net cash provided by operating activities | 15,497 | 1,266
+Cash flows from investing activities:
+Capital expenditures | (4,021 | ) | (3,512 | )
+Long-term investments | (1,623 | ) | (2,727 | )
+Trademarks and other intangibles | (88 | ) | (58 | )
+Net cash used in investing activities | (5,732 | ) | (6,297 | )
+Cash flows from financing activities:
+Dividends paid | (25,566 | ) | (23,306 | )
+Stock repurchases | (1,541 | ) | (1,594 | )
+Stock awards and options exercised and other changes | 116 | (474 | )
+Debt issuance costs | (450 | ) | —
+Net cash used in financing activities | (27,441 | ) | (25,374 | )
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash | (5,691 | ) | 5,875
+Net change in cash, cash equivalents, and restricted cash | (23,367 | ) | (24,530 | )
+Cash, cash equivalents, and restricted cash at beginning of period | 231,382 | 209,214
+Cash, cash equivalents, and restricted cash at end of period | $ | 208,015 | $ | 184,684
+Reconciliation of cash, cash equivalents, and restricted cash:
+Cash and cash equivalents | $ | 207,227 | $ | 183,876
+Restricted cash included in other non-current assets | 788 | 808
+Cash, cash equivalents, and restricted cash | $ | 208,015 | $ | 184,684
