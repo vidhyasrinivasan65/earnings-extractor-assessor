@@ -107,6 +107,15 @@
       "results_filings": 29,
       "new": 29,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-27T06:08:11+08:00",
+      "start": "2026-11-24",
+      "end": "2026-11-25",
+      "hits": 43,
+      "results_filings": 36,
+      "new": 7,
+      "offline": false
     }
   ],
   "filings": {
@@ -57014,7 +57023,116 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm",
       "first_seen": "2026-11-26T06:08:38+08:00"
+    },
+    "0001104659-26-131741": {
+      "accession": "0001104659-26-131741",
+      "file_date": "2026-11-25",
+      "company": "DEERE & CO",
+      "tickers": [
+        "DE"
+      ],
+      "cik": "315189",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0001104659-26-131776": {
+      "accession": "0001104659-26-131776",
+      "file_date": "2026-11-25",
+      "company": "DEERE JOHN CAPITAL CORP",
+      "tickers": [],
+      "cik": "27673",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/27673/000110465926131776/0001104659-26-131776-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0001901606-26-000034": {
+      "accession": "0001901606-26-000034",
+      "file_date": "2026-11-25",
+      "company": "Golub Capital Direct Lending Unlevered Corp",
+      "tickers": [],
+      "cik": "1901606",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1901606/000190160626000034/0001901606-26-000034-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0001661306-26-000100": {
+      "accession": "0001661306-26-000100",
+      "file_date": "2026-11-25",
+      "company": "Hancock Park Corporate Income, Inc.",
+      "tickers": [],
+      "cik": "1661306",
+      "form": "8-K",
+      "items": [
+        "2.02"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1661306/000166130626000100/0001661306-26-000100-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0001437749-26-038232": {
+      "accession": "0001437749-26-038232",
+      "file_date": "2026-11-25",
+      "company": "INGLES MARKETS INC",
+      "tickers": [
+        "IMKTA"
+      ],
+      "cik": "50493",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0001193125-26-477186": {
+      "accession": "0001193125-26-477186",
+      "file_date": "2026-11-25",
+      "company": "SUBURBAN PROPANE PARTNERS LP",
+      "tickers": [
+        "SPH"
+      ],
+      "cik": "1005210",
+      "form": "8-K/A",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/0001193125-26-477186-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
+    },
+    "0000927089-26-000198": {
+      "accession": "0000927089-26-000198",
+      "file_date": "2026-11-25",
+      "company": "USCB FINANCIAL HOLDINGS, INC.",
+      "tickers": [
+        "USCB"
+      ],
+      "cik": "1901637",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+      "first_seen": "2026-11-27T06:08:11+08:00"
     }
   },
-  "updated_at": "2026-11-26T06:08:38+08:00"
+  "updated_at": "2026-11-27T06:08:11+08:00"
 }

@@ -1650,5 +1650,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/afy27q3ex991earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/0001628280-26-075606-index.htm",
     "saved_at": "2026-11-26T06:08:38+08:00"
+  },
+  {
+    "cik": "50493",
+    "company": "INGLES MARKETS INC",
+    "accession": "0001437749-26-038232",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1374.311,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,374,311"
+      },
+      "operating_income": {
+        "value": 24.545,
+        "unit": "USD millions",
+        "quote": "Income from operations | 24,545"
+      },
+      "net_income": {
+        "value": 18.511,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,511"
+      },
+      "diluted_eps": {
+        "value": 0.97,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share – Class A | $ | 0.97"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Executive Chairman thanks the company's associates for the care they show customers every day.",
+        "quote": "Thank you to our associates for the care they show our customers every day."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "At the close of the fiscal year, he says he is grateful for the associates' work and for customers' loyalty.",
+        "quote": "As we close the fiscal year, I am grateful for their hard work and for the loyalty of the families who shop with us."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The Executive Chairman's only words are thanks and gratitude to associates and customers; he does not comment on the figures."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50493-0001437749-26-038232.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
+    "saved_at": "2026-11-27T06:08:11+08:00"
+  },
+  {
+    "cik": "315189",
+    "company": "DEERE & CO",
+    "accession": "0001104659-26-131741",
+    "release_date": "2026-11-25",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 12115,
+        "unit": "USD millions",
+        "quote": "Total net sales and revenues | $ | 12,115"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1051,
+        "unit": "USD millions",
+        "quote": "Net Income Attributable to Deere & Company | $ | 1,051"
+      },
+      "diluted_eps": {
+        "value": 3.89,
+        "unit": "USD per share",
+        "quote": "Fully diluted EPS | $ | 3.89"
+      }
+    },
+    "guidance": {
+      "text": "Deere forecasts net income attributable to Deere & Company for fiscal 2027 of $4.50 to $5.25 billion.",
+      "quote": "Net income attributable to Deere & Company for fiscal 2027 is forecasted to be in a range of $4.50 to $5.25 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says results are structurally stronger than at the same point in the last cycle.",
+        "quote": "Our results are structurally stronger compared with the same point in the last cycle, and we delivered them while sustaining investments and continuing to return capital to shareholders."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company executed with discipline even at cyclical lows.",
+        "quote": "Even at cyclical lows, we executed with discipline."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The CEO sees early signs of improvement in large agriculture, led by North America.",
+        "quote": "As we enter fiscal 2027, we’re seeing early signs of improvement in large agriculture, led by North America,"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the outlook has a wider range of outcomes because of continued uncertainty in key end markets.",
+        "quote": "Given continued uncertainty in key end markets, our outlook reflects a wider range of outcomes."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses disciplined execution and early signs of improvement, but also cyclical lows and continued uncertainty in key end markets."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/315189-0001104659-26-131741.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+    "saved_at": "2026-11-27T06:08:11+08:00"
   }
 ]
