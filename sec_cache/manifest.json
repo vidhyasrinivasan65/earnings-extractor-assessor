@@ -1,129 +1,85 @@
 {
-  "fetched_at": "2026-11-26T11:45:02+08:00",
+  "fetched_at": "2026-11-27T11:36:46+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-24",
-    "end": "2026-11-25",
+    "start": "2026-11-25",
+    "end": "2026-11-26",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 18,
-  "answered": 18,
+  "requests": 11,
+  "answered": 11,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-25",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-25&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 28 KB in 127 ms"
+      "detail": "HTTP 200, 7 KB in 243 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 130 ms"
+      "detail": "HTTP 200, 148 KB in 183 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 33 ms"
+      "detail": "HTTP 200, 156 KB in 166 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 20 ms"
-    },
-    {
-      "name": "INGLES MARKETS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 1 KB in 33 ms"
-    },
-    {
-      "name": "INGLES MARKETS INC filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
-      "ok": true,
-      "detail": "HTTP 200, 10 KB in 29 ms"
-    },
-    {
-      "name": "INGLES MARKETS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
-      "ok": true,
-      "detail": "HTTP 200, 136 KB in 31 ms"
-    },
-    {
-      "name": "DEERE & CO filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/index.json",
-      "ok": true,
-      "detail": "HTTP 200, 4 KB in 39 ms"
-    },
-    {
-      "name": "DEERE & CO press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 1,675 KB in 99 ms"
+      "detail": "HTTP 200, 154 KB in 158 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 53 ms"
+      "detail": "HTTP 200, 3,175 KB in 269 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 26 ms"
+      "detail": "HTTP 200, 4,447 KB in 255 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 28 ms"
-    },
-    {
-      "name": "INGLES MARKETS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050493.json",
-      "ok": true,
-      "detail": "HTTP 200, 1,909 KB in 21 ms"
-    },
-    {
-      "name": "DEERE & CO company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000315189.json",
-      "ok": true,
-      "detail": "HTTP 200, 5,121 KB in 55 ms"
+      "detail": "HTTP 200, 2,745 KB in 228 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 39 ms"
+      "detail": "HTTP 200, 4,627 KB in 534 ms"
     },
     {
       "name": "SunPower Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 205 ms"
-    },
-    {
-      "name": "Magnera Corp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
-      "ok": true,
-      "detail": "HTTP 200, 2,957 KB in 23 ms"
+      "detail": "HTTP 200, 1,788 KB in 393 ms"
     },
     {
       "name": "Titan Machinery Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409171.json",
       "ok": true,
-      "detail": "HTTP 200, 3,035 KB in 188 ms"
+      "detail": "HTTP 200, 3,035 KB in 481 ms"
+    },
+    {
+      "name": "DEERE & CO company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000315189.json",
+      "ok": true,
+      "detail": "HTTP 200, 5,121 KB in 311 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000041719.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000050493.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000315189.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
@@ -134,11 +90,6 @@
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_315189_000110465926131741_de-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_315189_000110465926131741_index.json",
-    "www.sec.gov_Archives_edgar_data_50493_000143774926038232_0001437749-26-038232-index.htm",
-    "www.sec.gov_Archives_edgar_data_50493_000143774926038232_ex_1050620.htm",
-    "www.sec.gov_Archives_edgar_data_50493_000143774926038232_index.json"
+    "efts.sec.gov_search-index_from0.json"
   ]
 }
